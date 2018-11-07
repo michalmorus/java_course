@@ -1,0 +1,1778 @@
+
+<!DOCTYPE html><!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="pl"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="pl"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="pl" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="pl"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="pl"> <!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,width=device-width,user-scalable=no" >
+<meta name="theme-color" content="#2889c6" >
+<meta name="referrer" content="always" >
+<meta name="robots" content="index, follow, all" >
+<meta name="Author" content="INTERIA.PL" >
+<meta name="GOOGLEBOT" content="NOODP" >
+<meta name="Description" content="Odeszli 2018 (świat) - fakty.interia.pl" >
+<title>Odeszli 2018 (świat) - Świat</title>
+                    <!--GT3.2-->
+<script>
+function pp_gemius_loaded(){window.GEMIUS_LOADED=true;}
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = "p3XgvbuU4waLdbs4GY13ApbfHbbs5iMUyOIyB7spC5v.g7";
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+"_pdata"] = window[i+"_pdata"] || []; x[x.length]=arguments;};};
+gemius_pending("gemius_hit"); gemius_pending("gemius_event"); gemius_pending("pp_gemius_hit"); gemius_pending("pp_gemius_event");
+(function(d,t) {try{ var s=d.getElementsByTagName(t)[0],l="http"+((location.protocol=="https:")?"s":"");
+var add=function(ohost, clb){ var gt=d.createElement(t),h=(ohost?"//iwa.iplsc.com/sweqevub.js":"//iwa.iplsc.com/xgemius.js?v=3")
+n=ohost?'sweqevub':'xgemius',p=ohost?6:1;
+gt.setAttribute("async","async"); gt.setAttribute("defer","defer");
+gt.onerror = function() {if (typeof Inpl !== "undefined" && typeof Inpl.Abd !== "undefined") { Inpl.Abd.trackError(n, p); } };
+gt.onload = function() {if (typeof Inpl !== "undefined" && typeof Inpl.Abd !== "undefined") { Inpl.Abd.registerScript(n, p); } };
+gt.src=l+":"+h; s.parentNode.insertBefore(gt,s);
+if (clb && gt.addEventListener) gt.addEventListener("er"+"r"+"or", clb, false); else if (clb && gt.attachEvent) gt.attachEvent("on"+"er"+"r"+"or", clb); };
+add(0, function(){add(1);});} catch (e) {if(window.Inpl&&window.Inpl.Log)Inpl.Log.log("gemius_inset_error", e)}})(document,"script");
+var __iwa = __iwa || []; __iwa.push( ["setCustomVar","gemius_hg","1", "page"] );
+//--><!]]>
+</script>
+<script type="text/javascript"><!--
+(function(){
+function getCookie(name) {
+try {
+var cookies = document.cookie.split(';');
+for (var i=0; i<cookies.length ; i++) {
+var cookie_data = cookies[i].split('=');
+if (cookie_data[0].replace(/^\s+|\s+$/g,'')==name) {
+  return cookie_data[1].replace(/^\s+|\s+$/g,'');
+}
+}
+} catch (e) {
+}
+return "";
+}
+function shuffle(array) {
+var random = {};
+for (var i=0; i<array.length; ++i) {
+random[array[i]] = Math.random();
+}
+array.sort(function(a, b) {
+return random[a] - random[b];
+});
+}
+try {
+var fpdata = getCookie("__gf" + "p_64b");
+var instance = Math.ceil(Math.random()*10000).toString() + ((new Date()).getTime()).toString();
+var params = "&fpd" + "ata=" + fpdata + "&extra=_unique%3D" + instance + "%7C_order%3D";
+var requests = [];
+var images = [];
+requests[0] = "//alt.hud" + "b.pl/_" + new Date().getTime() + "/rep" + "oint.gif?id=zP1Ly69IfNd76iZbLV_bfpcP71ws3U_tAfJ3c8c4F0H.K7" + params + "%7C_type%3Dt1";
+requests[1] = "//rs.hit.gem" + "ius.pl/_" + new Date().getTime() + "/red" + "ot.gif?id=zZ1Fz67YIap1okcXfG6EWpcP73ws3U_9Yl7RTpcX15D.L7" + params + "%7C_type%3Dt2";
+requests[2] = "//alt.adoc" + "ean.pl/_" + new Date().getTime() + "/red" + "ot.gif?id=nL6QcsyAG_6fXRk7L.G4YKeEfUoswYdyv0OiTO9unkD.X7" + params + "%7C_type%3Dt3";
+shuffle(requests);
+for (var i=0; i<requests.length; ++i) {
+images[i] = new Image();
+images[i].src = requests[i] + i.toString();
+}
+} catch (e) {
+}
+})();
+//--></script>
+<script>!function(a){a._gaq=a._gaq||[];var b=a._gaq;b.push=function(){var a=Array.prototype.slice.call(arguments);a.forEach(function(a){var b=a[0],c=a[1]?a[1]:null,d=a[2]?a[2]:null,e=a[3]?a[3]:null,f=a[4]?a[4]:null,g=a[5]?{nonInteraction:1}:null,h=!1;b.indexOf!=-1&&(h=b.split(".")[0],b=b.split(".")[1]);var i="b"==h?"service":"portal";"_trackEvent"==b?ga(i+".send",{hitType:"event",eventCategory:c,eventAction:d,eventLabel:e,eventValue:f,nonInteraction:g}):"_trackSocial"==b&&ga(i+".send",{hitType:"social",socialNetwork:c,socialAction:d,socialTarget:e})})}}(window);</script><!-- Google Analytics (Universal Analytics) --><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-3530215-5', 'auto', 'portal', {'cookieDomain': 'interia.pl', 'legacyCookieDomain': 'interia.pl', 'legacyHistoryImport': true });ga('portal.send', 'pageview');ga('create', 'UA-2042239-3', 'auto', 'service');ga('service.require', 'displayfeatures');ga('service.send', 'pageview');</script><!-- End Google Analytics --><script>!function(){function b(a){for(var b=a+"=",c=document.cookie.split(";"),d=0;d<c.length;d++){for(var e=c[d];" "==e.charAt(0);)e=e.substring(1);if(0==e.indexOf(b))return e.substring(b.length,e.length)}return!1}function c(a){a.forEach(function(a){b(a)&&d(a)})}function d(a){document.cookie=a+"=;expires=Thu, 18 Dec 2013 12:00:00 UTC; path=/"}var a=["__utma","__utmb","__utmc","__utmt_b","__utmz"];b("_ga")&&b("__utma")&&c(a)}();</script><!--/GT3.2--><!-- IWA -->
+<script>            function iwa() {
+                return iwa2.apply(null, arguments) || iwa1.apply(null, arguments);
+            };            (function(i,n,t,e,r,j,a){
+                i['IWAObject']=r;
+                i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments);
+                };
+                j=n.createElement(t);
+                a=n.getElementsByTagName(t)[0];
+                j.async=1;
+                l='http'+((location.protocol==='https:')?'s:':':');
+                                j.onerror = function() {
+                    if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') {
+                        Inpl.Abd.trackError('iwa1', 2);
+                    }
+                };
+                j.onload = function() {
+                    if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') {
+                        Inpl.Abd.registerScript('iwa1', 2);
+                    }
+                };
+                j.src=l+e;a.parentNode.insertBefore(j,a);
+            })(window,document,'script','//iwa.iplsc.com/iwa.js','iwa1');iwa1('create', 1);iwa1("setCustomVar","album_id",309611,"page");iwa1("plugin","register","pageheight",{"pageHeightVar":"pageheight"});iwa1("plugin","register","scroll",{"scrollToVar":"scroll"});iwa1("plugin","register","performance",{"unloadEvent":"p_unload_evt","redirect":"p_redirect","domainLookup":"p_domain_lookup","connect":"p_connect","request":"p_request","response":"p_response","parse":"p_parse","domContentLoaded":"p_dom_cnt_load","domContentLoadedEvent":"p_dom_cnt_load_evt","pageload":"p_load","pageloadEvent":"p_load_evt"});iwa1("plugin","register","timeSpent",{"unit":"seconds"});iwa1('send', 'pageview');            (function(i,n,t,e,r,j,a){
+                i['IWA2Object']=r;
+                i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments);
+                };
+                j=n.createElement(t);
+                a=n.getElementsByTagName(t)[0];
+                j.async=1;
+                l='http'+((location.protocol==='https:')?'s:':':');
+                                j.onerror = function() {
+                    if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') {
+                        Inpl.Abd.trackError('iwa2', 3);
+                    }
+                };
+                j.onload = function() {
+                    if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') {
+                        Inpl.Abd.registerScript('iwa2', 3);
+                    }
+                };
+                j.src=l+e;a.parentNode.insertBefore(j,a);
+            })(window,document,'script','//iwa2.iplsc.com/main.iwa.js','iwa2');iwa2('create', '1');iwa2('config', {request: {socket: {url: 'wss://iwa3.hit.interia.pl:8443/collector'}}});iwa2("setCustomVar","album_id",309611,"page");iwa2("plugin","register","pageheight",{"pageHeightVar":"pageheight"});iwa2("plugin","register","scroll",{"scrollToVar":"scroll"});iwa2("plugin","register","performance",{"unloadEvent":"p_unload_evt","redirect":"p_redirect","domainLookup":"p_domain_lookup","connect":"p_connect","request":"p_request","response":"p_response","parse":"p_parse","domContentLoaded":"p_dom_cnt_load","domContentLoadedEvent":"p_dom_cnt_load_evt","pageload":"p_load","pageloadEvent":"p_load_evt"});iwa2("plugin","register","timeSpent",{"unit":"seconds"});iwa2('plugin', 'register', 'userOrigin');iwa2('plugin', 'register', 'viewAbility');iwa2('send', 'pageview');</script>
+<!-- End IWA --><!--ADB--><script>/* adBlock 1 */
+            (function(a,d,b,l,o,c,k){
+            a.Inpl=a.Inpl||{};a.Inpl[o]=a.Inpl[o]||{};a.Inpl[o].q=[];
+            function p(f){a.Inpl[o].q.push(f);}
+            var fn=["onDetected","onNotDetected","onDetectFail","setCollector","trackError"];
+            for(var m in fn){(function(f){Inpl[o][f]=function(){Array.prototype.unshift.call(arguments,f);p(arguments);}})(fn[m])};
+            c=d.createElement(b);k=d.getElementsByTagName(b)[0];var sch="http"+((location.protocol=="https:")?"s:":":");c.src=sch+l;k.parentNode.insertBefore(c,k);
+            Inpl.Adb.getResult=function(){var c,d,a="__adb_st"+"=",b=document.cookie.split(";"),e=b.length;for(c=0;c<e;c+=1){for(d=b[c];" "===d.charAt(0);)d=d.substring(1);if(d.indexOf(a)!==-1)return d.substring(a.length,d.length)}return "-1"};
+            Inpl.Adb.setCollector("fac.interia.pl")
+            })(window,document,"script","//js.iplsc.com/inpl.adb/1.0.20/inpl.adb.js","Adb");
+            (function(){var __VERSION__="2.0.18";!function(){window.isAdblockDetected=1;var t,e,i,o,u={isDefined:function(t){return void 0!==t},isFunction:function(t){return"function"==typeof t},isNumber:function(t){return"number"==typeof t},isString:function(t){return"string"==typeof t},isArray:function(t){return"[object Array]"===Object.prototype.toString.call(t)},loadOnDomReady:function(t){var e=!1,i=document,n=window;function o(){"complete"!==i.readyState||e||(e=!0,t())}o(),e||(i.addEventListener?(i.addEventListener("DOMContentLoaded",function(){e=!0,t()},!1),n.addEventListener("load",function(){e||t()},!1)):i.attachEvent&&i.attachEvent("onreadystatechange",o))},debug:function(t,e){window.abdDebug&&window.abdDebug(t,e)}};function n(){var i={};this.trigger=function(t,e){u.isArray(i[t])&&i[t].forEach(function(t){t.apply(this,e)}.bind(this)),i[t]=[]},this.on=function(t,e){i[t]=i[t]||[],i[t].push(e)}}function d(t){try{var e=document.createElement("script");e.onload=e.onerror=function(){window.isAdblockDetected?(this.detected=window.isAdblockDetected,this.trigger("detected",[window.isAdblockDetected])):(this.detected=window.isAdblockDetected,this.trigger("notDetected",[window.isAdblockDetected])),this.trigger("done",[window.isAdblockDetected])}.bind(this),e.src=t+"?"+["pub_300x250","pub_300x250m","pub_728x90","text-ad","textAd","text_ad","text_ads","text-ads","text-ad-links"].join("&"),document.head.appendChild(e)}catch(t){setTimeout(function(){window.isAdblockDetected=-1,this.detected=window.isAdblockDetected,this.trigger("done",[window.isAdblockDetected]),this.trigger("detectFail",[window.isAdblockDetected])}.bind(this))}}function r(){var t=document.createElement("iframe"),e="js.iplsc.com",i="/inpl.abd/"+__VERSION__+"/proxy.html",n=encodeURIComponent(document.location.protocol+"//"+document.location.host),o=document.location.protocol+"//"+e+i+"?host="+n;t.style.width="10px",t.style.height="10px",t.style.position="absolute",t.style.top="-999999px",t.style.left="-999999px",t.onload=function(){setTimeout(function(){u.isDefined(this.detected)||(this.detected=-1,this.trigger("detectFail",[this.detected]),this.trigger("done",[this.detected]))}.bind(this),100)}.bind(this),t.src=o,u.loadOnDomReady(function(){document.body.appendChild(t)}.bind(this)),window.addEventListener("message",function(t){t.origin===document.location.protocol+"//"+e&&u.isDefined(t.data.detected)&&(t.data.detected?(this.detected=t.data.detected,this.trigger("detected",[t.data.detected])):(this.detected=t.data.detected,this.trigger("notDetected",[t.data.detected])),this.trigger("done",[t.data.detected]))}.bind(this))}function c(){try{var t=document.createElement("div");t.setAttribute("class",["pub_300x250","pub_300x250m","pub_728x90","text-ad","textAd","text_ad","text_ads","text-ads","text-ad-links"].join(" ")),t.style.width="10px",t.style.height="10px",t.style.position="absolute",t.style.top="-999999px",t.style.left="-999999px",u.loadOnDomReady(function(){document.body.appendChild(t),setTimeout(function(){"hidden"===t.style.visibility||"none"===t.style.display||10!==t.offsetWidth?(this.detected=1,this.trigger("detected",[1])):(this.detected=0,this.trigger("notDetected",[0])),this.trigger("done",[this.detected])}.bind(this),10)}.bind(this))}catch(t){setTimeout(function(){this.detected=-1,this.trigger("done",[this.detected]),this.trigger("detectFail",[this.detected])}.bind(this))}}function l(t){"undefined"!=typeof MutationObserver&&u.loadOnDomReady(function(){[].slice.call(document.querySelectorAll(t)).forEach(function(t){var e=new MutationObserver(function(){"hidden"!==t.style.visibility&&"none"!==t.style.display&&0!==t.offsetWidth||"undefined"==typeof iwa2||(iwa2("trackEvent","AdBlock2","mutation",{elementId:t.id}),e.disconnect())});e.observe(t,{attributes:!0,childList:!0,subtree:!0})})}.bind(this))}function s(){this.get=function(t){for(var e=t+"=",i=document.cookie.split(";"),n=0;n<i.length;n++){for(var o=i[n];" "===o.charAt(0);)o=o.substring(1,o.length);if(0===o.indexOf(e))return decodeURIComponent(o.substring(e.length,o.length))}return null},this.set=function(t,e,i,n,o,d){var r="";if(i){var c=new Date;c.setTime(c.getTime()+1e3*i),r=" expires="+c.toUTCString()+";"}var s=encodeURIComponent(t),a=encodeURIComponent(e),h=n?" domain="+n+";":"",u=o?" path="+o+";":"",l=d?d+";":"";document.cookie=s+"="+a+";"+r+h+u+l},this.remove=function(t,e,i,n){var o=e||"",d=i||"/",r=n||"";this.set(t,"",-1,o,d,r)}}function a(){this.detected=0;try{"undefined"!=typeof googletag&&-1!==googletag.display.toString().indexOf("native code")?(this.detected=1,this.trigger("detected",[1])):(this.detected=0,this.trigger("notDetected",[0])),this.trigger("done",[this.detected])}catch(t){setTimeout(function(){this.detected=-1,this.trigger("done",[this.detected]),this.trigger("detectFail",[this.detected])}.bind(this))}}function h(){var e=function(){this.detected=1,this.trigger("done",[!0])}.bind(this),i=function(){this.detected=0,this.trigger("done",[!1])}.bind(this);!function(){if(!window.webkitRequestFileSystem){if("MozAppearance"in document.documentElement.style){var t=indexedDB.open("test");return t.onerror=e,t.onsuccess=i}return/constructor/i.test(window.HTMLElement)?function(){try{localStorage.length||(localStorage.x=1,localStorage.removeItem("x")),i()}catch(t){navigator.cookieEnabled?e():i()}}():window.indexedDB||!window.PointerEvent&&!window.MSPointerEvent?i():e()}window.webkitRequestFileSystem(0,0,i,e)}()}function p(){var e="fac.interia.pl";this.send=function(n){var t="https://"+e+"/1/hit.t",o=[];n.t=(new Date).getTime(),n.v=__VERSION__,Object.keys(n).forEach(function(e){try{var i=encodeURIComponent(n[e])}catch(t){i=n[e]}o.push(e+"="+i)}),t=t+"?"+o.join("&"),(new Image).src=t},this.setCollector=function(t){e=t},this.getCollector=function(){return e}}function f(o,d,r){var c={cookieName:"__adb_aid",iwa1CookieName:"__iwa_vid",iwa2CookieName:"_iwa_vid",cookieStatus:"_abd_st",cookieHash:"_abd_hash",expires:63072e3,scriptNames:[]};function s(t){return u.isDefined(window[t])?1:0}function a(){"undefined"!=typeof iwa2&&iwa2.apply(iwa2,arguments)}function h(t){return new RegExp(/^([a-z0-9]{8})\-([a-z0-9]{4})\-([a-z0-9]{4})\-([a-z0-9]{4})\-([a-z0-9]{12})$/gi).test(t)}this.hash=function(){for(var t="",e=0;e<c.scriptNames.length;e++)t+="0";return t}(),this.init=function(){var t=function(t){var e=d.get(t);if(e&&h(e))return e;var i=(n=(new Date).getTime(),"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,function(t){var e=(n+16*Math.random())%16|0;return n=Math.floor(n/16),("x"===t?e:7&e|8).toString(16)}));var n;return d.set(t,i,c.expires,"","/"),i}(c.cookieName),e=d.get(c.iwa1CookieName),i=(d.get(c.iwa2CookieName)||"").replace("$IWAStorageItem$",""),n={};if(n.aid=t,n.gem=s("GEMIUS_LOADED"),n.a=s("Inpl")&&Inpl.Ad?1:0,n.adb=o.detected,n.inc=o.privateModeDetected,n.gtp=o.googletagProxyDetected,n.url=document.location.href,n.iwa1=s("iwa1"),n.iwa2=s("iwa2"),e&&h(e)&&(n.iid1=e),i&&h(i)&&(n.iid2=i),r.send({aid:n.aid,a:n.a,adb:n.adb,inc:n.inc,gtp:n.gtp,url:n.url,iwa1:n.iwa1,iwa2:n.iwa2,iid1:n.iid1,iid2:n.iid2}),n.iwa1&&iwa1("trackEvent","AdBlock2","loaded",{adb:n.adb,inc:n.inc}),n.iwa2){["containerDetected","googletagProxyDetected","iframeDetected","privateModeDetected","requestDetected"].forEach(function(t){n[t]=o[t]}),iwa2("trackEvent","AdBlock2","loaded",{adb:n.adb,inc:n.inc}),iwa2("trackEvent","AdBlock2","gem",{status:n.gem})}d.set(c.cookieStatus,n.adb,c.expires,"","/")},this.trackError=function(t,e){if(u.isNumber(e)){this.registerScript(t,e,!0);var i=this.getHash().split("");i[e]="1",this.setHash(i.join(""));var n=this.getHash();d.set(c.cookieHash,n,c.expires,"","/"),a("trackEvent","AdBlock2","hash",t,e,{status:i[e]})}},this.onDetected=function(t){o.on("detected",t)},this.onNotDetected=function(t){o.on("notDetected",t)},this.onDetectFail=function(t){o.on("detectFail",t)},this.getResult=function(){return d.get(c.cookieStatus)},this.setCollector=function(t){r.setCollector(t)},this.getCollector=function(){return r.getCollector()},this.registerElement=function(t){if(u.isString(t)&&document.querySelector(t))return new l(t)},this.registerScript=function(t,e,i){u.isString(t)&&u.isNumber(e)&&(c.scriptNames[e]=t,function(t){for(var e=this.getHash().split(""),i=0;i<=t;i++)e[i]||(e[i]=0);this.setHash(e.join("")),d.set(c.cookieHash,this.getHash(),c.expires,"","/")}.call(this,e),i||a("trackEvent","AdBlock2","hash",t,e,{status:0}))},this.setHash=function(t){this.hash=t},this.getHash=function(){return this.hash},d.set(c.cookieHash,this.getHash(),c.expires,"","/")}function g(){var e={request:new d("https://js.iplsc.com/inpl.abd/"+__VERSION__+"/ads.js"),iframe:new r,privateMode:new h,container:new c,googletagProxy:new a},i=Object.keys(e);function t(){for(var t=0;t<i.length;t++){if(!u.isDefined(e[i[t]].detected))return!1;e[i[t]].detected&&"privateMode"!==i[t]&&"googletagProxy"!==i[t]&&"iframe"!==i[t]&&(this.detected=1),this[i[t]+"Detected"]=e[i[t]].detected}return!0}for(var n=this.detected=0;n<i.length;n++)e[i[n]].on("done",(i[n],function(){t.apply(this)&&this.trigger("done",[])}).bind(this))}Function.prototype.bind||(Function.prototype.bind=function(t){if("function"!=typeof this)throw new TypeError("Function.prototype.bind - what is trying to be bound is not callable");var e=Array.prototype.slice.call(arguments,1),i=this;function n(){}function o(){return i.apply(this instanceof n?this:t,e.concat(Array.prototype.slice.call(arguments)))}return this.prototype&&(n.prototype=this.prototype),o.prototype=new n,o}),Array.prototype.forEach&&(Array.prototype.forEach=function(t,e){var i=this.length;if("function"!=typeof t)throw new TypeError;for(var n=0;n<i;n++)n in this&&t.call(e,this[n],n,this)}),(d.prototype=new n).constructor=d,(r.prototype=new n).constructor=r,(c.prototype=new n).constructor=c,(l.prototype=new n).constructor=l,(a.prototype=new n).constructor=a,(h.prototype=new n).constructor=h,(g.prototype=new n).constructor=g,t=new p,e=new g,i=new s,new l(".ad"),o=new f(e,i,t),window.Inpl=window.Inpl||{},window.Inpl.Abd=window.Inpl.Abd||o,window.Inpl.Abd.q=u.isArray(Inpl.Abd.q)?Inpl.Abd.q:[],Inpl.Abd.q.forEach(function(t){if(u.isDefined(t)&&u.isDefined(t.length)){var e=Array.prototype.slice.call(arguments);if(0<e.length){var i=e.shift(),n=e.shift();u.isFunction(o[i])&&o[i].call(o,n)}}}),window.Inpl.Abd=o,e.on("done",function(){o.init()})}();})();</script><!--END-ADB-->
+<script>var rodoScriptDir = "https://js.iplsc.com/inpl.rd/latest/";var rodoJsonDir = "https://prywatnosc.interia.pl/rodo/messages-pl";
+window.isCookieEnabled = function(){document.cookie = 'testcookie'; return document.cookie.indexOf('testcookie')!=-1;}
+var googletag = googletag || {cmd: []};
+googletag.cmd.push(function () {googletag.pubads().setTargeting('rodo', 4);googletag.pubads().setRequestNonPersonalizedAds(1);});
+try {
+localStorage.setItem('adoceanRodoKeyword', 'rodo_4');
+} catch (e) {};
+</script>
+<script async crossorigin="anonymous" src="https://js.iplsc.com/inpl.rd/latest/inpl.rd.jssc"></script><script>!function(){if("function"==typeof window.CustomEvent)return!1;function e(e,i){i=i||{bubbles:!1,cancelable:!1,detail:void 0};var t=document.createEvent("CustomEvent");return t.initCustomEvent(e,i.bubbles,i.cancelable,i.detail),t}e.prototype=window.Event.prototype,window.CustomEvent=e}(),function(e,i){if(e.Inpl=e.Inpl||{},e.Inpl.hasOwnProperty("dsg"))e.console.log("Istnieje już [window.Inpl.dsg]");else{var t=e.Inpl.dsg={service:{url:"//dsg.interia.pl"},cookie:{name:"DSG_GROUP_ID",firstPageViewReferrerName:"First_PageView_Referrer",path:"/",domain:".interia.pl",expireTime:(new Date).getTime()+18e5},time:{start:Date.now()},userType:null,initialUserType:null,url:{withoutParams:"https://dsg.interia.pl/?",paramKeys:{callback:"callback=",referrer:"ref="}},iframe:{element:null,domain:"//dsg.interia.pl/dsg-iframe"},image:{url:"//dsg.interia.pl/cookie-based-image",width:null},getCookie:function(e){var t;return e+="=",-1!==i.cookie.indexOf(e)&&-1!==(t=i.cookie.split(e).pop().split("; ")[0]).indexOf("$IWAStorageItem$")&&(t=t.replace("$IWAStorageItem$","")),t},_getCurrentDomain:function(){var i=e.location.hostname,t=i.indexOf(".interia.pl");return-1!==t?i.slice(t):i},setCookie:function(e,t,r,s,o,n){i.cookie=e+"="+t+(null==r?"":"; expires="+new Date(r).toUTCString())+(null==s?"":"; path="+s)+(null==o?"":"; domain="+o)+(1==n?"; secure":"")},_getReferrer:function(){var e=this.getCookie(this.cookie.firstPageViewReferrerName);return r(e)?e:i.referrer},_loadJSONP:function(o){var n,a,c,l="jsonpDsgUserTypeCallback",m=this._getReferrer(),h=t.url.withoutParams+t.url.paramKeys.callback+l+(r(m)?"&"+t.url.paramKeys.referrer+m:"");this.log("Referrer_iwa",m),a={src:h,async:!0,type:"application/javascript"},c=i.createElement("script"),"object"==typeof a&&Object.keys(a).forEach(function(e){a.hasOwnProperty(e)&&c.setAttribute(e,a[e])}),n=c,i.body?i.body.appendChild(n):s(i,"DOMContentLoaded",function(e){i.body.appendChild(n)}),e[l]=function(t){o&&(o(t),i.body.removeChild(n),delete e[l])}},_handleDsgData:function(e){var i,r;1===e.status&&(i=t.getUserType(),t.setCookie(t.cookie.name,e.data.dsg,t.cookie.expireTime,t.cookie.path,t.cookie.domain),t.setUserType(e.data.dsg),r=t.getUserType(),t.sendUserOriginIwaEvent(r),i!==r&&t.sendUserTypeChangeIwaEvent(i,r),t.log("UserType_iwa",r),t.log("UserType_iwa_time",t.getSecondsFromStart(Date.now())))},sendUserOriginIwaEvent:function(e){r(e)&&iwa&&iwa("trackEvent","userOrigin",e,"")},sendUserTypeChangeIwaEvent:function(e,i){r(e)&&r(i)&&iwa&&iwa("trackEvent","userTypeChange",e,i)},getUserType:function(){return this.userType},getInitialUserType:function(){return this.initialUserType},setUserType:function(e){this.userType=Number(e)},setInitialUserType:function(e){this.initialUserType=Number(e)},getSecondsFromStart:function(e){return(e-this.time.start)/1e3},isInteriaService:function(e){var i,t,s=[".interia.pl","interia.tv",".pomponik.pl",".styl.pl","deccoria.pl","smaker.pl",".maxmodels.pl",".pcformat.pl"],o=s.length;if(r(e)&&("string"==typeof(t=e)||t instanceof String))for(i=0;i<o;i++)if(-1!==e.indexOf(s[i]))return!0;return!1},setUserTypeBasedOnReferrer:function(){var e=this._getReferrer();return this.log("Referrer_default",e),r(e)?""===e?(this.setCookie(this.cookie.name,1,this.cookie.expireTime,this.cookie.path,this.cookie.domain),this.setUserType(1)):this.isInteriaService(e)?(this.setCookie(this.cookie.name,2,this.cookie.expireTime,this.cookie.path,this.cookie.domain),this.setUserType(2)):(this.setCookie(this.cookie.name,0,this.cookie.expireTime,this.cookie.path,this.cookie.domain),this.setUserType(0)):(this.setCookie(this.cookie.name,1,this.cookie.expireTime,this.cookie.path,this.cookie.domain),this.setUserType(1))},setCookieDomain:function(e){r(e)&&(this.cookie.domain=e)},setCookieExpireTime:function(e){r(e)&&(this.cookie.expireTime=e)},onFirstPageViewReferrerCookieSet:function(e){t.setCookieExpireTime(e.detail.storageExpireTimeInMs),t._loadJSONP(t._handleDsgData),e.currentTarget.removeEventListener(e.type,t.onFirstPageViewReferrerCookieSet)},loadIframe:function(e,i){this.iframe.element=document.createElement("iframe"),this.iframe.element.onload=i,this.iframe.element.src=e,this.iframe.element.width=0,this.iframe.element.height=0,this.iframe.element.id="dsgIframe",this.iframe.element.style.display="none",document.body.appendChild(this.iframe.element)},handleLoadedIframe:function(){this.sendDsgUserTypeToIframe(this.getUserType())},isMessageFromIframeOrigin:function(e){return e.indexOf("dsg.interia.pl")>-1},setEnvironmentUrls:function(){var e,i,t=window.location.hostname,r=t.indexOf(".iplv2.");if(-1!==r){switch(i=(e=t.substring(0,r)).lastIndexOf("."),e.slice(i+1)){case"ds":this.service.url="//konrad.beska.dsg.interia.pl.ds.iplv2.bauer-pl.bauermedia.group";break;case"itg":this.service.url="//dsg.interia.pl.itg.iplv2.bauer-pl.bauermedia.group";break;case"rc":this.service.url="//dsg.interia.pl.rc.iplv2.bauer-pl.bauermedia.group";break;default:this.service.url="//dsg.interia.pl"}this.iframe.domain=this.service.url+"/dsg-iframe",this.image.url=this.service.url+"/cookie-based-image"}},getIframeDomain:function(){return this.iframe.domain},sendDsgUserTypeToIframe:function(e){var i={type:"dsgUserType",value:e,timeStart:this.time.start};this.iframe.element.contentWindow.postMessage(JSON.stringify(i),"*")},onIframeMessage:function(){s(window,"message",function(e){var i;t.isMessageFromIframeOrigin(e.origin)&&void 0!==e.data&&"dsgUserType"===(i=JSON.parse(e.data)).type&&(t.setCookie(t.cookie.name,i.value,t.cookie.expireTime,t.cookie.path,t.cookie.domain),t.setUserType(i.value),t.log("UserType_messageFromChildIframeWindow",t.getUserType()),t.log("UserType_messageFromChildIframeWindow_time",t.getSecondsFromStart(Date.now())))})},loadImage:function(e){var i=new Image;i.onload=e,i.src=t.image.url},setImageWidth:function(e){this.image.width=e},handleLoadedImage:function(e){switch(this.setImageWidth(e.target.width),e.target.width){case 10:this.setCookie(this.cookie.name,0,this.cookie.expireTime,this.cookie.path,this.cookie.domain),this.setUserType(0);break;case 11:this.setCookie(this.cookie.name,1,this.cookie.expireTime,this.cookie.path,this.cookie.domain),this.setUserType(1);break;case 12:this.setCookie(this.cookie.name,2,this.cookie.expireTime,this.cookie.path,this.cookie.domain),this.setUserType(2)}this.log("UserType_imageLoaded",this.getUserType()),this.log("UserType_imageLoaded_time",this.getSecondsFromStart(Date.now()))},isInnerUser:function(){var i=function(i,t){t||(t=e.location.href),i=i.replace(/[\[\]]/g,"\$&");var r=new RegExp("[?&]"+i+"(=([^&#]*)|&|#|$)").exec(t);return r?r[2]?decodeURIComponent(r[2].replace(/\+/g," ")):"":null}("isInnerUser");return r(i)?!!Number(i):1===this.getInitialUserType()||2===this.getInitialUserType()},init:function(){var o;this.setEnvironmentUrls(),this.setCookieDomain(this._getCurrentDomain()),this.setUserType(this.getCookie(this.cookie.name)),r(this.getUserType())&&("number"==typeof(o=this.getUserType())&&isFinite(o))?(this.sendUserOriginIwaEvent(this.getUserType()),this.log("UserType",this.getUserType())):(this.setUserTypeBasedOnReferrer(),this.loadImage(this.handleLoadedImage.bind(this)),this.log("UserType_default",this.getUserType()),this.log("UserType_default_time",this.getSecondsFromStart(Date.now())),s(e,"firstPageViewReferrerCookieSet",this.onFirstPageViewReferrerCookieSet),s(i,"DOMContentLoaded",function(e){t.loadIframe(t.getIframeDomain(),t.handleLoadedIframe.bind(t)),t.onIframeMessage()})),this.setInitialUserType(this.getUserType())},log:function(e,i){r(e)&&r(i)&&r(iwa)&&(iwa("trackEvent","dsgLog",e,i),console.log(e,i))}};e.Inpl.dsg.init()}function r(e){return null!=e}function s(e,i,t){e.addEventListener?e.addEventListener(i,t,!1):e.attachEvent&&e.attachEvent("on"+i,t)}}(window,document);</script>
+<script type="text/javascript" src="https://js.iplsc.com/inpl.storage/1.0.4/inpl.storage.js"></script><script type="text/javascript" src="https://w.iplsc.com/external/modernizr/2.8.3.1/modernizr.js"></script>
+<script type="text/javascript">
+    //<!--
+    (function(d){try{if(top!=self){k=location;l=k.href;m="utm_medium=frame&utm_campaign=wyrzucenie_z_ramki&utm_source=";try{r=d.referrer;if(r){a=d.createElement("A");a.href=r;h=a.hostname||"unknown";m=m+encodeURIComponent(h);}else{m=m+"undefined";}}catch(e){};top.location.replace(l.split("#")[0]+(-1==l.indexOf("utm_source")&&"#gaso="!=k.hash.substring(0,6)?"#"+m:k.hash))}}catch(e){console.log(e);};})(document);    //-->
+</script>
+<script type="text/javascript" src="https://w.iplsc.com/external/jquery/jquery-1.8.3.js"></script>
+<script type="text/javascript">
+    //<!--
+
+jQuery(document).ready(function(){
+try{ window.$j = jQuery.noConflict(); } catch(e){}
+});
+(function (l, o, g) {
+l.Inpl = l.Inpl || {};
+l.Inpl.Log = l.Inpl.Log || {};
+var Log = l.Inpl.Log;
+Log.NOTICE = 'notice';
+Log.WARN = 'warn';
+Log['ER' +'ROR'] = 'er'+'ror';
+Log.INFO = 'info';
+Log.partSize = 4;
+Log.__queue = [];
+var methods = ['init','onE'+'rror', 'log'];
+for (var i in methods) {
+if (methods.hasOwnProperty(i)) {
+(function (f) {
+l.Inpl.Log[f] = function () {
+var args = Array.prototype.slice.call(arguments);
+Array.prototype.unshift.call(args, f);
+l.Inpl.Log.__queue.push(args);
+}
+})(methods[i]);
+}
+}
+if (o) {
+
+var lib = document.createElement('script');
+lib.src = o ;
+document.head.appendChild(lib);
+}
+l['one'+'rror'] = function () {
+var args = Array.prototype.slice.call(arguments);
+l.Inpl.Log['onE'+'rror'].apply(Log, args);
+
+};
+Log.init();
+
+
+
+})(window, '//js.iplsc.com/inpl.log/1.0.15/inpl.log.js');    //-->
+</script><link href="//js.iplsc.com/inpl.forum4.topics/1.0.2/themes/base/skin.css" media="all" rel="stylesheet" type="text/css" >
+<link href="//js.iplsc.com/inpl.forum4/1.0.55/themes/base/skin.css" media="all" rel="stylesheet" type="text/css" >
+<link href="//js.iplsc.com/inpl.portal-bar-menu/1.0.22/themes/base/skin.css" media="all" rel="stylesheet" type="text/css" >
+<link href="//iwa.iplsc.com" rel="dns-prefetch" >
+<link href="//interia.hit.gemius.pl" rel="dns-prefetch" >
+<link href="//ls.hit.gemius.pl" rel="dns-prefetch" >
+<link href="//iwa.hit.interia.pl" rel="dns-prefetch" >
+<link href="//stats.g.doubleclick.net" rel="dns-prefetch" >
+<link href="//w.iplsc.com" rel="dns-prefetch" >
+<link href="//hub.com.pl" rel="dns-prefetch" >
+<link href="//interiaao.hit.gemius.pl" rel="dns-prefetch" >
+<link href="//i.hub.com.pl" rel="dns-prefetch" >
+<link href="https://i.iplsc.com" rel="dns-prefetch" >
+<link href="//fakty.interia.pl/galerie/swiat/odeszli-w-minionym-roku-swiat-zdjecie,iId,2593915,iAId,309611" media="handheld" rel="alternate" >
+<link href="/s/main-4ecf58200289ea1f7f838f3d64adc826.css" media="all" rel="stylesheet" type="text/css" >
+<!--[if lte IE 8]><link href="/s/ie8/main.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
+<link href="/s/print-2c8bb67e30695b22aab8948740d994a7.css" media="print" rel="stylesheet" type="text/css" >
+<link href="/i/fakty-ico-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144" sizes="144x144" >
+<link href="/i/fakty-ico-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114" sizes="114x114" >
+<link href="/i/fakty-ico-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72" sizes="72x72" >
+<link href="/i/fakty-ico-57x57.png" rel="apple-touch-icon-precomposed" >
+<link href="/manifest.json" rel="manifest" type="application/json" >
+<link href="https://js.iplsc.com/inpl.gallery/2.2.31/theme/style.css" media="all" rel="stylesheet" type="text/css" >
+<link href="https://js.iplsc.com/inpl.gallery/2.2.31/theme/print.css" media="print" rel="stylesheet" type="text/css" >
+<!--[if lte IE 8]>
+
+<script type="text/javascript" src="https://w.iplsc.com/external/polyfillsIe8/1.0.0/polyfillsIe8.js"></script>    <link rel="stylesheet" type="text/css" media="all" href="/s/ie8.css"/>
+<![endif]-->
+    <script>(function(a,d,v,e,r,t,s){
+    a.__inplAd = a.__inplAd || [];
+    a.Inpl = a.Inpl||{};
+    a.Inpl[r]=a.Inpl[r]||{};
+    function p(f){
+        __inplAd.push(f);
+    }
+    var isWriteAllowed = function() {
+        var userAgent = navigator.userAgent.toLowerCase();
+        var oldie = /msie/.test(userAgent) && !/opera/.test(userAgent);
+        return !(document.readyState == "complete" || (!oldie && document.readyState == "interactive"));
+    };
+    var fn = ["init", "enablePlugin", "initSinglePlacment", "removeAd", "set", "get", "getAd", "setAd", "returnAd", "hbht", "getKeywords", "addKeywords", "disableNuggad", "addAdPlaceToRefresh", "addAdPlaceToRefreshCycle", "refreshAdPlace", "refreshAdPlaces", "insertAd", "isAd", "onEmit", "onAd", "onEmptyInfoSent"];
+    for (var m in fn) {
+        (function(f) {
+            Inpl.Ad[f] = function() {
+                if ("insertAd" == f && isWriteAllowed()) {
+                    document.write("<div id=\"ad_" + arguments[0] + "\"></div>")
+                };
+                Array.prototype.unshift.call(arguments, f);
+                p(arguments);
+            }
+        })(fn[m])
+    }
+    t = d.createElement(v);
+    s = d.getElementsByTagName(v)[0];
+    var l = "http" + ((location.protocol == "https:") ? "s:" : ":");
+    t.onerror = function() {
+        if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') {
+            Inpl.Abd.trackError('anc', 0);
+        }
+    };
+    t.onload = function() {
+        if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') {
+            Inpl.Abd.registerScript('anc', 0);
+        }
+    };
+    t.src = l + e;
+    s.parentNode.insertBefore(t, s);
+}
+)(window, document, "script", "//js.iplsc.com/inpl.anc/1.1.110/inpl.anc.js", "Ad");
+</script>
+<!-- AdServer CID: INTERIA/wiadomosci/galerie PID: body -->
+<script>
+</script><script>window.Inpl.AdCID=[];window.Inpl.AdCID.push("INTERIA/wiadomosci/galerie.body");window.Inpl.AdInfo = {main : {cid : "INTERIA/wiadomosci/galerie", pid: "body", places: ["adoceanhubsefmcrdnpu","adoceanhubpfmsfonrop","adoceanhubmgdjjlhgeo","adoceanhubzgkpmirksj","adoceanhubnkgjkninxt","adoceanhubxlegbimgmn","adoceanhubumlmevflli","adoceanhubvecjpuljgd","adoceanhubpoqfdkklzp","adoceanhubpemqdsgqfr","adoceanhubnkrrevhtxp","adoceanhubrmfknojojr","adoceanhubnmrmpvektt","adoceanhubpeftppeump","adoceanhubmogrqnhrrc","adoceanhubycrjisgutu","adoceanhubnndlprdhxf","adoceanhubojcomtencq","adoceanhubuipnkthnuc"]}};</script>
+<script>
+Inpl.Ad.enablePlugin('ContentStream', {service:'1050', rwd:true});
+Inpl.Ad.enablePlugin('NetsprintAudience', {});
+Inpl.Ad.enablePlugin('Adb');
+
+window.Inpl && Inpl.Ad && Inpl.Ad.init({'belka_760x30':'adoceanhubsefmcrdnpu','belka_stopka':'adoceanhubpfmsfonrop','box300x250':'adoceanhubmgdjjlhgeo','gora_srodek':'adoceanhubzgkpmirksj','news_dol_belka':'adoceanhubnkgjkninxt','news':'adoceanhubxlegbimgmn','skyscraper':'adoceanhubumlmevflli','1x1':'adoceanhubvecjpuljgd','header1':'adoceanhubpoqfdkklzp','adexchange_300x250':'adoceanhubpemqdsgqfr','box_ec_prawa_dol':'adoceanhubnkrrevhtxp','commentslist':'adoceanhubrmfknojojr','adsearch':'adoceanhubnmrmpvektt','watermark':'adoceanhubpeftppeump','dol_srodek':'adoceanhubmogrqnhrrc','box625_html':'adoceanhubycrjisgutu','promocyjni_gazetka_dol':'adoceanhubnndlprdhxf','box_ec_prawa_dol_mob':'adoceanhubojcomtencq','stat':'adoceanhubuipnkthnuc'},"qE1Hy24Oh46GP4Gmu9LHO5ZrnODF6TAD_sYMPa8cLdT.97",true);
+</script>
+        <script type='text/javascript'> var cookieEnabled = ( window.isCookieEnabled && typeof(window.isCookieEnabled) === 'function' ) ? window.isCookieEnabled() : false; if (!cookieEnabled){ document.cookie = "testDfpCookie"; cookieEnabled = document.cookie.indexOf("testDfpCookie")!=-1; } if( cookieEnabled ) { var cr = document.createElement('script');cr.type = 'text/javascript'; cr.async = true; cr.onerror = function() { if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') { Inpl.Abd.trackError('criteo', 5); } }; cr.onload = function() { if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') { Inpl.Abd.registerScript('criteo', 5); } }; cr.src = 'https://static.criteo.net/js/ld/publishertag.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(cr, s); window.Criteo = window.Criteo || {}; window.Criteo.events = window.Criteo.events || []; var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.onerror = function() { if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') { Inpl.Abd.trackError('dfp', 4); } }; gads.onload = function() { if (typeof Inpl !== 'undefined' && typeof Inpl.Abd !== 'undefined') { Inpl.Abd.registerScript('dfp', 4); } }; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); } </script> <script> (function () { "use strict"; try { window.Inpl = window.Inpl || {}; Inpl.adbResult = Inpl.Adb.getResult() || "-1"; Inpl.googletag = Inpl.googletag || {}; Inpl.googletag.slot = Inpl.googletag.slot || {}; Inpl.googletag.mapping = Inpl.googletag.mapping || {}; Inpl.googletag.eventRenderEnd = function (event,slotName,slotObj) { if (!slotName || !slotObj || !event || !Inpl.googletag.slot[slotName]) return; if (event.slot === Inpl.googletag.slot[slotName]){ if(slotName === "dfp_right_ec_1" || slotName === "dfp_right_ec_2" || slotName === "dfp_right_ec_3" || slotName === "dfp_right_ec_4"){ slotObj.parentNode.style.display = event.isEmpty ? 'none' : 'block'; if (slotObj.parentNode.classList) { slotObj.parentNode.classList.add('dfp-is-loaded') } } else if (slotName === "dfp_box300x250_galeria") { slotObj.parentNode.parentNode.parentNode.style.display = event.isEmpty ? 'none' : 'block'; if (slotObj.parentNode.parentNode.parentNode.classList) { slotObj.parentNode.parentNode.parentNode.classList.add('dfp-is-loaded') } } else if (slotName === "dfp_commentslist") { slotObj.parentNode.style.display = event.isEmpty ? 'none' : 'block'; if (slotObj.parentNode.classList) { slotObj.parentNode.classList.add('dfp-is-loaded') } } else { slotObj.parentNode.parentNode.style.display = event.isEmpty ? 'none' : 'block'; if (slotObj.parentNode.parentNode.classList) { slotObj.parentNode.parentNode.classList.add('dfp-is-loaded') } } slotObj.style.display = event.isEmpty ? 'none' : 'block'; if (Inpl.googletag.slot[slotName].isLoaded) { if (event.isEmpty) { Inpl.googletag.slot[slotName].isLoaded.reject(); } else { Inpl.googletag.slot[slotName].isLoaded.resolve(); } } } }; Inpl.googletag.plugins = Inpl.googletag.plugins || {}; Inpl.googletag.addEvent = function(element, event, callback) { if (element.addEventListener) { element.addEventListener(event, callback, false); } else if (element.attachEvent) { element.attachEvent('on' + event, callback); } }; Inpl.googletag.eventFilter = function(filterTime, callback) { var timer = null; return function() { if (timer !== null) { clearTimeout(timer); } timer = setTimeout(go, filterTime); function go() { if (timer !== null) { timer = null; callback(); } } }; }; /* getStorage */ Inpl.googletag.getStorage = function (name) { var keys = localStorage.getItem(name); return keys; }; Inpl.googletag.getKeywords = function(nshost){ var keys = Inpl.googletag.getStorage(nshost); var keyArr = keys ? keys.split(",") : false; if(keyArr) return keyArr; else return false; }; /* getStorage */ Inpl.googletag.getCookie = function (name) { return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(name).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")).replace(/=/g,'_').replace(/;/g,',') || ""; }; Inpl.googletag.plugins.Netsprint = Inpl.googletag.getKeywords('nshost_'+window.location.hostname) || ""; Inpl.googletag.plugins.Criteo = Inpl.googletag.getCookie('crtgin_rta') || ""; Inpl.googletag.plugins.CustomKeywords = Inpl.googletag.getKeywords('ad_custom_keywords') || ""; Inpl.googletag.plugins.Host = window.location.hostname || ""; Inpl.googletag.plugins.HostName = window.location.hostname || ""; Inpl.googletag.plugins.Adb = parseInt(Inpl.googletag.getCookie('__adb_st'),10); }catch(e){ console.log('DFP:',e); } })(); </script> <script type='text/javascript'> googletag.cmd.push(function () { Inpl.googletag.mapping['dfp_box300x250_galeria'] = googletag.sizeMapping().addSize([0, 0], [300,250]).addSize([1000, 200], [300,250]).build();Inpl.googletag.slot['dfp_box300x250_galeria'] = googletag.defineSlot('44520695/17interia/fakty/dfp_box300x250_galeria',[300,250], 'dfp-box300x250_galeria').defineSizeMapping(Inpl.googletag.mapping['dfp_box300x250_galeria']).setTargeting('pos',['dfp_box300x250_galeria']).addService(googletag.pubads());if (!Inpl.googletag.slot['dfp_box300x250_galeria'].isLoaded && window['jQuery'] && jQuery.Deferred) { Inpl.googletag.slot['dfp_box300x250_galeria'].isLoaded = jQuery.Deferred(); }Inpl.googletag.mapping['dfp_commentslist'] = googletag.sizeMapping().addSize([700, 0], [[700, 150], [550, 150], [1, 1], 'fluid']).addSize([550, 0], [[550, 150], [1, 1], 'fluid']).addSize([470, 0], [[468, 60], [336, 280], [320, 125], [320, 100], [320, 75], [320, 50], [300, 400], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [1, 1], 'fluid']).addSize([340, 0], [[336, 280], [320, 125], [320, 100], [320, 75], [320, 50], [300, 400], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [1, 1], 'fluid']).addSize([300, 0], [[300, 400], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [240, 120], [1, 1], 'fluid']).addSize([216, 0], [[216, 36], [200, 50], [180, 150], [168, 28], [125, 125], [120, 60], [120, 20], [88, 31], [72, 60], [1, 1], 'fluid']).addSize([0, 0], [1, 1], 'fluid').build();Inpl.googletag.slot['dfp_commentslist'] = googletag.defineSlot('44520695/17interia/fakty/dfp_commentslist',[[550, 150], [700, 150]], 'dfp-commentslist').defineSizeMapping(Inpl.googletag.mapping['dfp_commentslist']).setTargeting('pos',['dfp_commentslist']).addService(googletag.pubads());if (!Inpl.googletag.slot['dfp_commentslist'].isLoaded && window['jQuery'] && jQuery.Deferred) { Inpl.googletag.slot['dfp_commentslist'].isLoaded = jQuery.Deferred(); }Inpl.googletag.mapping['dfp_gora_srodek'] = googletag.sizeMapping().addSize([1280, 0], [[1220, 600], [1220, 300], [985, 400], [970, 300], [970, 250], [970, 200], [970, 100], [970, 90], [950, 300], [950, 200], [950, 100], [940, 300], [940, 200], [750, 300], [750, 200], [750, 100], [728, 90], [700, 150], [700, 100], [1, 1], 'fluid']).addSize([1000, 0], [[985, 400], [970, 300], [970, 250], [970, 200], [970, 100], [970, 90], [950, 300], [950, 200], [950, 100], [940, 300], [940, 200], [750, 300], [750, 200], [750, 100], [728, 90], [700, 150], [700, 100], [1, 1], 'fluid']).addSize([768, 0], [[750, 300], [750, 200], [750, 100], [728, 90], [700, 150], [700, 100], [480, 200], [468, 60], [336, 280], [320, 125], [320, 100], [320, 75], [320, 50], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [1, 1], 'fluid']).addSize([360, 0], [[336, 280], [320, 125], [320, 100], [320, 75], [320, 50], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [1, 1], 'fluid']).addSize([300, 0], [[300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [240, 120], [1, 1], 'fluid']).addSize([216, 0], [[216, 36], [200, 50], [180, 150], [168, 28], [125, 125], [120, 60], [120, 20], [88, 31], [72, 60], [1, 1], 'fluid']).addSize([0, 0], [[1,1], 'fluid']).build();Inpl.googletag.slot['dfp_gora_srodek'] = googletag.defineSlot('44520695/17interia/fakty/dfp_gora_srodek',[[750,100],[750,200],[750,300],[950,100],[950,200],[950,300],[1,1]], 'dfp-gora_srodek').defineSizeMapping(Inpl.googletag.mapping['dfp_gora_srodek']).setTargeting('pos',['dfp_gora_srodek']).addService(googletag.pubads());if (!Inpl.googletag.slot['dfp_gora_srodek'].isLoaded && window['jQuery'] && jQuery.Deferred) { Inpl.googletag.slot['dfp_gora_srodek'].isLoaded = jQuery.Deferred(); }Inpl.googletag.mapping['dfp_out_of_page'] = googletag.sizeMapping().addSize([0, 0], [1,1]).addSize([1000, 200], [1,1]).build();Inpl.googletag.slot['dfp_out_of_page'] = googletag.defineOutOfPageSlot('44520695/17interia/fakty/dfp_out_of_page', 'dfp-out_of_page').defineSizeMapping(Inpl.googletag.mapping['dfp_out_of_page']).setTargeting('pos',['dfp_out_of_page']).addService(googletag.pubads());if (!Inpl.googletag.slot['dfp_out_of_page'].isLoaded && window['jQuery'] && jQuery.Deferred) { Inpl.googletag.slot['dfp_out_of_page'].isLoaded = jQuery.Deferred(); }Inpl.googletag.mapping['dfp_dol_srodek'] = googletag.sizeMapping().addSize([1000, 0], [[985, 400], [970, 250], [970, 90], [950, 300], [950, 200], [950, 100], [940, 300], [940, 200], [750, 300], [750, 200], [750, 100], [728, 90], [700, 150], [700, 100], [480, 200], [468, 60], [1, 1], 'fluid']).addSize([768, 0], [[750, 300], [750, 200], [750, 100], [728, 90], [700, 150], [700, 100], [480, 200], [468, 60], [336, 280], [320, 125], [320, 100], [320, 75], [320, 50], [300, 600], [300, 400], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [1, 1], 'fluid']).addSize([360, 0], [[336, 280], [320, 125], [320, 100], [320, 75], [320, 50], [300, 600], [300, 400], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [1, 1], 'fluid']).addSize([300, 0], [[300, 600], [300, 400], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [250, 250], [240, 120], [1, 1], 'fluid']).addSize([216, 0], [[216, 36], [200, 50], [180, 150], [168, 28], [125, 125], [120, 60], [120, 20], [88, 31], [72, 60], [1, 1], 'fluid']).addSize([0, 0], [1, 1], 'fluid').build();Inpl.googletag.slot['dfp_dol_srodek'] = googletag.defineSlot('44520695/17interia/fakty/dfp_dol_srodek',[[750,100],[750,200],[750,300],[950,100],[950,200],[950,300],[1,1]], 'dfp-dol_srodek').defineSizeMapping(Inpl.googletag.mapping['dfp_dol_srodek']).setTargeting('pos',['dfp_dol_srodek']).addService(googletag.pubads());if (!Inpl.googletag.slot['dfp_dol_srodek'].isLoaded && window['jQuery'] && jQuery.Deferred) { Inpl.googletag.slot['dfp_dol_srodek'].isLoaded = jQuery.Deferred(); } googletag.pubads().setTargeting("iId","2593915");googletag.pubads().setTargeting("iAId","309611");googletag.pubads().setTargeting("pageUri",["fakty.interia.pl","galerie","swiat","odeszli-w-minionym-roku-swiat-zdjecie,iId,2593915,iAId,309611","2593915","iId","309611","iAId",]);googletag.pubads().setTargeting("pageUri2","fakty.interia.pl/galerie/swiat/odeszli-w-minionym-roku-swiat-zdjecie_iId_2593915_iAId_309611");googletag.pubads().setTargeting("cid","INTERIA/wiadomosci/galerie");googletag.pubads().setTargeting("pid","body"); googletag.pubads().setTargeting('customkeywords', Inpl.googletag.plugins.CustomKeywords); googletag.pubads().setTargeting('pi', Inpl.googletag.plugins.Netsprint); googletag.pubads().setTargeting('crt', Inpl.googletag.plugins.Criteo); googletag.pubads().setTargeting('host', Inpl.googletag.plugins.Host); googletag.pubads().setTargeting('hostname', Inpl.googletag.plugins.HostName); if (Inpl.googletag.plugins.Adb){googletag.pubads().setTargeting('adb', [1]);} googletag.pubads().enableSingleRequest(); /* CRITEO */ googletag.pubads().disableInitialLoad(); /* CRITEO */ googletag.pubads().collapseEmptyDivs(true); var sidebar = (document.querySelector("aside.main-sidebar")) ? document.querySelector("aside.main-sidebar") : (document.querySelector("div.f3-sidebar-container")) ? document.querySelector("div.f3-sidebar-container") : null; var sidebarOn = true; var ecCont = document.querySelector("div.dfp-ecommerce-container") ? document.querySelector("div.dfp-ecommerce-container") : null; var destCont = document.querySelector("div#comments4MostInterestingTopics-1") ? document.querySelector("div#comments4MostInterestingTopics-1") : null; var boxCont = document.querySelector("div.dfp-ecommerce-container .boxBody div") ? document.querySelector("div.dfp-ecommerce-container .boxBody div") : null; if (sidebar && sidebar !== null) { var sbrStyle = window.getComputedStyle(sidebar); var sbrDisplay = (sbrStyle && sbrStyle.getPropertyValue('display')) ? sbrStyle.getPropertyValue('display') : "none"; var slotsObj = Inpl.googletag.slot; if (sbrDisplay === "none") { sidebarOn = false; var SidebarSlots = ["dfp_box300x250","dfp_box300x250_2","dfp_box300x250_3", "dfp_box_300x250_google"]; var distSlots = []; for (x in SidebarSlots) { distSlots.push( slotsObj[SidebarSlots[x]] ); } googletag.destroySlots(distSlots); if ( (ecCont && ecCont !== null) && (destCont && destCont !== null) ) { ecCont.classList.remove('box_ec_prawa_dol'); ecCont.classList.add('box_ec_prawa_dol_mob'); ecCont.classList.add('adsEcArticleMobile'); ecCont.style.display = "block !important"; destCont.parentNode.insertBefore(ecCont, destCont.nextSibling); } } if (slotsObj.hasOwnProperty('dfp_right_ec_1') && slotsObj.hasOwnProperty('dfp_right_ec_2') && slotsObj.hasOwnProperty('dfp_right_ec_3') && slotsObj.hasOwnProperty('dfp_right_ec_4')) { var newResize = Inpl.googletag.eventFilter(100, onResize); Inpl.googletag.addEvent(window, "resize", newResize); /* CRITEO FOR eCommerce */ var eCommercelaunchAdServer = function () { googletag.cmd.push(function () { /* This will append Criteo keywords to the adserver call*/ Criteo.SetDFPKeyValueTargeting(); /* This will trigger the adserver call */ googletag.pubads().refresh([Inpl.googletag.slot['dfp_right_ec_1'], Inpl.googletag.slot['dfp_right_ec_2'], Inpl.googletag.slot['dfp_right_ec_3'], Inpl.googletag.slot['dfp_right_ec_4']]); }); }; function onResize() { if (window.innerWidth > 999 && sidebarOn == false) { if ( (sidebar && sidebar !== null) && (ecCont && ecCont !== null) && (boxCont && boxCont !== null) ) { sidebar.appendChild(ecCont); ecCont.classList.remove('box_ec_prawa_dol_mob'); ecCont.classList.remove('adsEcArticleMobile'); ecCont.classList.add('box_ec_prawa_dol'); ecCont.id = "box_ec_prawa_dol1"; boxCont.setAttribute('id', 'ad_box_ec_prawa_dol'); Criteo.events.push(function () { /* Define the price band range */ Criteo.SetLineItemRanges("0..12:0.04;12..32:0.2;32..80:2;80..400:20"); /* Call Criteo and execute the callback function for a given timeout */ Criteo.RequestBids(adUnits, eCommercelaunchAdServer, criteoTimeout); }); } sidebarOn = true; } else if (window.innerWidth < 1000 && sidebarOn == true) { if ( (destCont && destCont !== null) && (ecCont && ecCont !== null) && (boxCont && boxCont !== null) ) { destCont.parentNode.insertBefore(ecCont, destCont.nextSibling); ecCont.classList.remove('box_ec_prawa_dol'); ecCont.classList.add('box_ec_prawa_dol_mob'); ecCont.classList.add('adsEcArticleMobile'); boxCont.setAttribute('id', 'ad_box_ec_prawa_dol_mob'); Criteo.events.push(function () { /* Define the price band range */ Criteo.SetLineItemRanges("0..12:0.04;12..32:0.2;32..80:2;80..400:20"); /* Call Criteo and execute the callback function for a given timeout */ Criteo.RequestBids(adUnits, eCommercelaunchAdServer, criteoTimeout); }); } sidebarOn = false; } } } } var mobileSlots = ["mobile_rectangle_1", "mobile_rectangle_2", "mobile_rectangle_3", "mobile_rectangle_4", "mobile_rectangle_5"]; var desktopSlots = ["dfp_belka_1", "dfp_belka_2", "dfp_belka_3","dfp_belka_4","dfp_belka_5"]; var distmSlots = []; var mslotsObj = Inpl.googletag.slot; var checkSlots = Inpl.googletag.eventFilter(0, checkSlots); function checkSlots() { if (window.innerWidth > 999) { for (x in mobileSlots) { distmSlots.push(mslotsObj[mobileSlots[x]]); } googletag.destroySlots(distmSlots); } else { for (x in desktopSlots) { distmSlots.push(mslotsObj[desktopSlots[x]]); } googletag.destroySlots(distmSlots); } } checkSlots(); googletag.pubads().addEventListener('slotRenderEnded', function (event) { Inpl.googletag.eventRenderEnd(event, 'dfp_box300x250_galeria', document.querySelector('#dfp-box300x250_galeria'));Inpl.googletag.eventRenderEnd(event, 'dfp_commentslist', document.querySelector('#dfp-commentslist'));Inpl.googletag.eventRenderEnd(event, 'dfp_gora_srodek', document.querySelector('#dfp-gora_srodek'));Inpl.googletag.eventRenderEnd(event, 'dfp_out_of_page', document.querySelector('#dfp-out_of_page'));Inpl.googletag.eventRenderEnd(event, 'dfp_dol_srodek', document.querySelector('#dfp-dol_srodek')); }); googletag.enableServices(); /* CRITEO */ var launchAdServer = function () { googletag.cmd.push(function () { /* This will append Criteo keywords to the adserver call */ Criteo.SetDFPKeyValueTargeting(); /* This will trigger the adserver call */ googletag.pubads().refresh(); }); }; /* NativeAd eCommerce */ function renderNativeCommerce (json, elementId) { var div = document.getElementById(elementId); var htmlcode = ''; var products_count = 1; htmlcode += '<div class="cto_privacy" style="position: absolute; margin:1px 0 0 100px;">'; htmlcode += '<a href="'+ json.privacy.optout_click_url+'" target="_blank"><img src="'+ json.privacy.optout_image_url + '"></a>'; htmlcode += '</div>'; for (var i in json.products) { if (i >= products_count) break; htmlcode += '<a href="' + json.advertiser.logo_click_url + '" target="_blank" style="text-decoration: none;">'; htmlcode += '<div class="offer" style="width: 120px;height: 175px;text-align: center;">'; htmlcode += '<div class="thumbnail" style="width: 100px;height: 100px;overflow:hidden;margin: 0 auto;background-image: url('+ json.products[i].image.url +');background-position: center center;background-size: contain;background-repeat: no-repeat;">'; htmlcode += '</div>'; htmlcode += '<span id="offerTitle" style="display:block;padding:3px 0px; width: 120px;max-height: 33px;overflow: hidden;color: #666666;">'+json.products[i].title+'</span>'; if( json.products[i].call_to_action ) { htmlcode += '<span id="offerMore" style="display: block;width: 120px;padding: 4px;margin: 0 auto;max-height: 15px;overflow: hidden;text-align: center;color: #000;font-weight: bold;">' + json.products[i].call_to_action + '</span>'; } htmlcode += '</div>'; htmlcode += '</a>'; } for (i in json.impression_pixels) { htmlcode += '<img src="' + json.impression_pixels[i].url + '" width="0px" height="0px" style="display:none" >'; } div.innerHTML = htmlcode; div.style.display = 'block'; }; /* Declare this above the adunits */ var width = window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth; var isMobile = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) && width < 1000 ); var isMobileDev = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ); /* Initialize the adUnit mapping */ var adUnits = { "placements": [ { "slotid": "dfp-gora_srodek", "zoneid": (isMobile ? 1116730 : (width < 1000) ? 1115823 : 1101714) }, { "slotid": "dfp-box300x250", "zoneid": (isMobile ? 1116730 : (width < 1000) ? 1114659 : 1100921) }, { "slotid": "dfp-box_300x250_google", "zoneid": (isMobile ? 1116730 : 1114659) }, { "slotid": "dfp-rectangle", "zoneid": (isMobile ? 1116730 : 1114659) }, { "slotid": "dfp-banner_fakty", "zoneid": 1116730 }, { "slotid": "dfp-banner_biznes", "zoneid": 1116730 }, { "slotid": "dfp-right_ec_1", "zoneid": 1277161, "nativeCallback": function(json) { renderNativeCommerce(json, 'dfp-right_ec_1'); } }, { "slotid": "dfp-right_ec_2", "zoneid": 1277161, "nativeCallback": function(json) { renderNativeCommerce(json, 'dfp-right_ec_2'); } }, { "slotid": "dfp-right_ec_3", "zoneid": 1277161, "nativeCallback": function(json) { renderNativeCommerce(json, 'dfp-right_ec_3'); } }, { "slotid": "dfp-right_ec_4", "zoneid": 1277161, "nativeCallback": function(json) { renderNativeCommerce(json, 'dfp-right_ec_4'); } } ] }; var dolSrodekZoneId = 1101714; var criteoTimeout = (isMobileDev) ? 1000 : 700; if (isMobileDev) { dolSrodekZoneId = width > 1000 ? 1116731 : 1177648; } else { dolSrodekZoneId = width > 1000 ? 1101714 : 1115823; } adUnits.placements.push( {"slotid": "dfp-dol_srodek", "zoneid": dolSrodekZoneId} ); if(!isMobileDev && typeof(adUnits) !== "undefined" && typeof(adUnits.placements) !== "undefined") { adUnits.placements.push( {"slotid": "dfp-box300x250_galeria", "zoneid": 1114659} ); } /* CRITEO */ Criteo.events.push(function () { /* Define the price band range */ Criteo.SetLineItemRanges("0..12:0.04;12..32:0.2;32..80:2;80..400:20"); /* Call Criteo and execute the callback function for a given timeout */ Criteo.RequestBids(adUnits, launchAdServer, criteoTimeout); }); /* CRITEO */ }); </script> <script> (function(lh){ try { if (lh.indexOf('#dfptesterad') > -1 && lh.replace(/[^0-9a-z=]/g, "").length == 44) { document.write(unescape('%3C') + 'script id="kodmaster" src="//adtester.interia.pl/testuj/dfptester?' + lh.replace(/[^0-9a-z=]/g, "") + '" type="text/javascript"' + unescape('%3E%3C') + '/script' + unescape('%3E')); } }catch(e){ console.log(e); } })(location.hash); </script>
+<meta property="og:type" content="article" /><meta property="og:title" content="Odeszli 2018 (świat)" /><meta property="og:image" content="https://i.iplsc.com/odeszli-2018-swiat/0007NXX6Q6LFG0OE-C411-F4.jpg" /><meta property="og:url" content="http://fakty.interia.pl/galerie/swiat/zdjecie,iId,2593915,iAId,309611" /><meta property="og:description" content="Kliknij i zobacz więcej." /><meta name="apple-itunes-app" content="app-id=548261668, app-affiliate-data=pt=584558&amp;ct=fakty_smartappbanner&amp;mt=8" ><meta property="fb:app_id" content="438577716225831" /><script>
+window.CONFIG = {
+    servers: {
+        image: 'i.iplsc.com',
+        js: 'w.iplsc.com'
+    }
+};
+</script>
+<meta name="google-play-app" content="app-id=pl.interia.news"/>
+</head>
+<body class="logo-standard page-gallery portal-bar-hidden-mobile">
+    <div id="fb-root"></div>
+<div id="portal" class="portal-header is-moved hidden-mobile">
+    <div class="portal-bar">
+        <div class="portal-bar-body">
+            <div class="portal-extra-buttons">
+                <div class="portal-services-button switch-menu"></div>
+            </div>
+            <div class="portal-services-links">
+                <ul class="portal-services-ul">
+                    <li class="portal-services-li"><a class="portal-services-a"
+                                                      href="http://www.interia.pl/#iwa_source=pasek">Interia</a>
+                    </li>
+                                                                <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://fakty.interia.pl#iwa_source=pasek"
+                                                                       title="Fakty">Fakty</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://biznes.interia.pl#iwa_source=pasek"
+                                                                       title="Biznes">Biznes</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://eurosport.interia.pl#iwa_source=pasek"
+                                                                       title="Sport">Sport</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://motoryzacja.interia.pl#iwa_source=pasek"
+                                                                       title="Moto">Moto</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://nt.interia.pl#iwa_source=pasek"
+                                                                       title="Tech">Tech</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://gry.interia.pl#iwa_source=pasek"
+                                                                       title="Gry">Gry</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://muzyka.interia.pl#iwa_source=pasek"
+                                                                       title="Muzyka">Muzyka</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://film.interia.pl#iwa_source=pasek"
+                                                                       title="Film">Film</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://kobieta.interia.pl#iwa_source=pasek"
+                                                                       title="Kobieta">Kobieta</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://menway.interia.pl#iwa_source=pasek"
+                                                                       title="Menway">Menway</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://www.pomponik.pl#iwa_source=pasek"
+                                                                       title="Plotki">Plotki</a>
+                        </li>
+                                            <li class="portal-services-li service-item"><a class="portal-services-a"
+                                                                       href="http://forum.interia.pl/#iwa_source=pasek"
+                                                                       title="Forum">Forum</a>
+                        </li>
+                                                        </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="account">
+        <div class="account-layer">
+            <div class="account-body" data-mail="https://poczta.interia.pl"
+                 data-widget="https://poczta.interia.pl/widget/next"
+                 data-register="https://konto.interia.pl/nowe-konto"
+                 data-login="https://poczta.interia.pl"
+                 data-settings="https://konto.interia.pl"
+                 data-logout="http://logowanie.interia.pl/poczta/wyloguj?referer=https%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fodeszli-w-minionym-roku-swiat-zdjecie%2CiId%2C2593915%2CiAId%2C309611&crc=2939206113"
+                 data-i="https://i.iplsc.com" data-ads="//firma.interia.pl"
+                >
+                <div class="account-switches">
+                    <ul class="account-unlogged-ul">
+                        <li class="account-unlogged-li">
+                            <a href="https://poczta.interia.pl?referer=https%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fodeszli-w-minionym-roku-swiat-zdjecie%2CiId%2C2593915%2CiAId%2C309611&crc=2939206113#iwa_source=pasek"
+                               class="account-unlogged-a">Zaloguj się</a></li>
+                        <li class="account-unlogged-li">
+                            <a href="http://konto.interia.pl/poczta/nowe-konto#iwa_source=pasek"
+                               class="account-unlogged-a">Załóż
+                                konto</a></li>
+                    </ul>
+                    <a href="https://poczta.interia.pl" class="account-mail switch-mail is-toggler"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<nav id="menu" class="portal-menu" role="navigation" data-button=".switch-menu" data-source="#iwa_source=side_menu"
+     data-sg="//www.interia.pl/">
+    <header class="portal-menu-header">
+        <h2 class="portal-menu-name">
+            <span class="portal-menu-less"></span>
+            <span class="portal-menu-slot">Serwisy</span>
+            <button class="portal-menu-close btn-close"></button>
+        </h2>
+    </header>
+
+    <div class="scroll-content">
+        <div class="scroll-content-inner">
+            <ul class="portal-menu-ul level-0">
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Interia.pl">Interia.pl</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://poczta.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Poczta">Poczta</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-72"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://fakty.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Fakty">Fakty</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-70"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://biznes.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Biznes">Biznes</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-74"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://eurosport.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Sport">Sport</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1296"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.pomponik.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pomponik">Pomponik</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-73"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://pogoda.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda">Pogoda</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1170"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.styl.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Styl">Styl</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1151"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://kobieta.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Kobieta">Kobieta</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-77"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://nt.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Nowe Technologie">Nowe Technologie</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-79"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://gry.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Gry">Gry</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1277"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://mojeinwestycje.interia.pl/gie/notgpw/notc/c_akcje#iwa_source=side_menu" class="portal-menu-a"
+                               title="Giełda">Giełda</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1278"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://mojeinwestycje.interia.pl/wal/wal_on#iwa_source=side_menu" class="portal-menu-a"
+                               title="Waluty">Waluty</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://praca.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Praca">Praca</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://wyniki.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Wyniki">Wyniki</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-75"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://motoryzacja.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Motoryzacja">Motoryzacja</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1209"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://film.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Film">Film</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1292"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://swiatseriali.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Świat seriali">Świat seriali</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1199"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://muzyka.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Muzyka">Muzyka</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://nowahistoria.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Nowa Historia">Nowa Historia</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1288"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://mamdziecko.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Dziecko">Dziecko</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1186"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://menway.interia.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Menway">Menway</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-78"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.pcformat.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="PC Format">PC Format</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1276"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://mobtech.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Mobtech">Mobtech</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1280"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://programtv.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Program TV">Program TV</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1293"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://kobieta.interia.pl/horoskopy#iwa_source=side_menu" class="portal-menu-a"
+                               title="Horoskop">Horoskop</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1287"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.swiatkobiety.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Świat kobiety">Świat kobiety</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://noclegi.interia.pl/?utm_source=Interia.pl&amp;utm_medium=hamburger&amp;utm_campaign=nawyszukiwarke#iwa_source=side_menu" class="portal-menu-a"
+                               title="Noclegi">Noclegi</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.opracowania.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Opracowania">Opracowania</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://ebrokerpartner.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="eBrokerPartner">eBrokerPartner</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://encyklopedia.interia.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Encyklopedia">Encyklopedia</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.bryk.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Bryk">Bryk</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://sowafinansowa.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Sowa Finansowa">Sowa Finansowa</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1290"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://teksciory.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Tekściory">Tekściory</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1251"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.rmfon.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Radio">Radio</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://shoperia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Shoperia">Shoperia</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://krs.interia.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Baza KRS">Baza KRS</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://okazjum.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Okazjum">Okazjum</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://nazywo.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Na żywo">Na żywo</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1272"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://forum.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Forum">Forum</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1298"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://smaker.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Smaker">Smaker</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1299"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://deccoria.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Deccoria">Deccoria</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1300"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.maxmodels.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Maxmodels">Maxmodels</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://rankomat.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Rankomat">Rankomat</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1303"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.tipy.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Tipy">Tipy</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1304"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.promocyjni.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Promocyjni">Promocyjni</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1305"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://kodyrabatowe.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Kody rabatowe">Kody rabatowe</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1239"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://ecommerce.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Zakupy">Zakupy</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1307"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://porownywarka.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Porównywarka">Porównywarka</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.ebroker.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="eBroker">eBroker</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://opinie24.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Opinie24">Opinie24</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.biznes-firma.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Biznes Firma">Biznes Firma</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1271"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://czateria.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Czateria">Czateria</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1287"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://zdrowie.swiatkobiety.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Zdrowie">Zdrowie</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://porady.swiatkobiety.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Porady">Porady</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://przepisy.swiatkobiety.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Gotowanie">Gotowanie</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://finanse.swiatkobiety.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pieniądze">Pieniądze</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://podroze.swiatkobiety.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Podróże">Podróże</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://rodzina.swiatkobiety.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Rodzina">Rodzina</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://www.promoceny.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Promoceny">Promoceny</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="http://www.radio-online.pl#iwa_source=side_menu" class="portal-menu-a"
+                               title="Radio online">Radio online</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-poznan,cId,27457#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Poznań">Pogoda Poznań</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-lodz,cId,19059#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Łódź">Pogoda Łódź</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-dlugoterminowa-lublin,cId,19393#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Lublin">Pogoda Lublin</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-olsztyn,cId,24210#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Olsztyn">Pogoda Olsztyn</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-gdynia,cId,8052#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Gdynia">Pogoda Gdynia</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-kielce,cId,13378#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Kielce">Pogoda Kielce</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-zabrze,cId,39958#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Zabrze">Pogoda Zabrze</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-gliwice,cId,8369#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Gliwice">Pogoda Gliwice</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-bytom,cId,3781#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Bytom">Pogoda Bytom</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-dlugoterminowa-zielona-gora,cId,41517#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Zielona Góra">Pogoda Zielona Góra</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-koszalin,cId,15719#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Koszalin">Pogoda Koszalin</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-kalisz,cId,12482#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Płock">Pogoda Płock</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-rybnik,cId,30092#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Rybnik">Pogoda Rybnik</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-tychy,cId,36326#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Tychy">Pogoda Tychy</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-walbrzych,cId,36757#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Wałbrzych">Pogoda Wałbrzych</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-opole,cId,24308#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Opole">Pogoda Opole</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-legnica,cId,18186#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Legnica">Pogoda Legnica</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-przemysl,cId,27794#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Przemyśl">Pogoda Przemyśl</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-dlugoterminowa-zamosc,cId,40529#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Zamość">Pogoda Zamość</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-szczegolowa-rzeszow,cId,30389#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Rzeszów">Pogoda Rzeszów</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-"
+                        class="portal-menu-li level-">
+                        <div class="portal-menu-item">
+                                                        <a href="https://pogoda.interia.pl/prognoza-dlugoterminowa-warszawa,cId,36917#iwa_source=side_menu" class="portal-menu-a"
+                               title="Pogoda Warszawa">Pogoda Warszawa</a>
+                        </div>
+                    </li>
+                                                        <li id="pmn-1283"
+                        class="portal-menu-li level-1">
+                        <div class="portal-menu-item">
+                                                        <a href="http://prawojazdy.interia.pl/#iwa_source=side_menu" class="portal-menu-a"
+                               title="Prawo jazdy">Prawo jazdy</a>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+</nav>
+
+<span id="portalBarJs" data-jsmain="https://js.iplsc.com/inpl.portal-bar-menu/1.0.22/plugins/jquery.portalBarMenu.js,https://w.iplsc.com/external/jquery.cookie/1.0.1/jquery.cookie.js,https://w.iplsc.com/internal/inpl.interiaAccount/1.3.7/inpl.interiaAccount.js,https://w.iplsc.com/internal/inpl.user/1.3.9/inpl.user.js" data-jsnano="https://w.iplsc.com/external/jquery.nanoscroller/1.0.0/jquery.nanoscroller.js"></span>    <!-- DFP/dfp_gora_srodek --><div class="box ad adStandardTop container" id="adStandardTop1"><div class="boxBegin" ></div><div class="boxBody" data-iwa-viewability-name="dfp_gora_srodek"><div id="dfp-gora_srodek" align="center"><script>if(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-gora_srodek');});}</script></div></div><div class="boxEnd"></div></div><div id="crt-502cdb48" style="width:750px;height:100px;margin:10px auto 0px;"></div><script type="text/javascript">var Criteo = Criteo || {};
+                        Criteo.events = Criteo.events || [];
+                        Criteo.events.push(function() {
+                            Criteo.DisplayAcceptableAdIfAdblocked({
+                                "zoneid": 1345117,
+                                "containerid": "crt-502cdb48",
+                                "overrideZoneFloor": false
+                            });
+                        });</script><script>
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("1x1", null, null);
+        }
+
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+</script><script>
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("watermark", null, null);
+        }
+
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+</script><script>
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("stat", null, null);
+        }
+
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+</script><div class="box ad adStandardTop container" id="adStandardTop1">
+    <div class="boxBegin"></div>
+    <div class="boxBody">
+            </div>
+    <div class="boxEnd"></div>
+</div>
+
+        <!-- DFP/dfp_out_of_page --><div class="box ad" id="out_of_page1"><div class="boxBody" data-iwa-viewability-name="dfp_out_of_page"><div id="dfp-out_of_page" align="center"><script>if(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-out_of_page');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_out_of_page",
+                    element: document.querySelector("#dfp-out_of_page").parentElement
+                }).markAsLoaded();
+            }</script></div></div></div>
+            <div class="container page-container is-header">
+            <div class="branding-place"></div>
+            <header class="page-header">
+
+<div class="standard-common-logo">
+    <div class="standard-common-logo-wrapper">
+        <div class="standard-common-logo-container">
+                                                <a class="switch-arrow" href="http://www.interia.pl#utm_source=FAKTY&utm_medium=logo&utm_campaign=powrot_z_wew&amp;iwa_source=logo"></a>
+                    <a class="standard-interia-logo" href="http://www.interia.pl#utm_source=FAKTY&utm_medium=logo&utm_campaign=powrot_z_wew&amp;iwa_source=logo" title="Przejdź na stronę główną INTERIA.PL"><img src="/i/interia-logo-2-0.svg" alt="INTERIA.PL" width="186" height="47"></a>
+                                                        <a class="standard-service-logo" href="/#iwa_source=logo" title="Przejdź do strony głównej serwisu Fakty na INTERIA.PL" rel="home"><img src="/i/fakty-logo-2-0.svg" alt="Fakty" width="88" height="20"></a>
+
+                            <a class="switch-menu">Serwisy</a>
+
+
+                                            <a class="switch-mail" href="https://poczta.interia.pl" onClick="iwa('trackEvent', 'poczta', '-', 'klik', (Inpl && Inpl.dsg && Inpl.dsg.getUserType) ? Inpl.dsg.getUserType() : '');">Poczta</a>
+                                    </div>
+    </div>
+</div>
+
+<script>
+    // <polyfill>
+    // Zrodlo: http://paulirish.com/2011/requestanimationframe-for-smart-animating/
+    // http://my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
+    // MIT license
+
+    (function() {
+        var lastTime = 0;
+        var vendors = ['ms', 'moz', 'webkit', 'o'];
+        for(var x = 0; x < vendors.length && !window.requestAnimationFrame; ++x) {
+            window.requestAnimationFrame = window[vendors[x]+'RequestAnimationFrame'];
+            window.cancelAnimationFrame = window[vendors[x]+'CancelAnimationFrame']
+                || window[vendors[x]+'CancelRequestAnimationFrame'];
+        }
+
+        if (!window.requestAnimationFrame)
+            window.requestAnimationFrame = function(callback, element) {
+                var currTime = new Date().getTime();
+                var timeToCall = Math.max(0, 16 - (currTime - lastTime));
+                var id = window.setTimeout(function() { callback(currTime + timeToCall); },
+                    timeToCall);
+                lastTime = currTime + timeToCall;
+                return id;
+            };
+
+        if (!window.cancelAnimationFrame)
+            window.cancelAnimationFrame = function(id) {
+                clearTimeout(id);
+            };
+    }());
+    // </polyfill>
+
+    (function (w, doc) {
+        function addClass(el, className) {
+            if (el.classList)
+                el.classList.add(className);
+            else
+                el.className += ' ' + className;
+        }
+        function removeClass(el, className) {
+            if (el.classList)
+                el.classList.remove(className);
+            else
+                el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
+        }
+
+        w.Inpl = w.Inpl || {};
+
+        if(w.Inpl.hasOwnProperty('StickyPortalBar')) {
+            throw 'Istnieje już window.Inpl.StickyPortalBar!';
+        }
+
+        var that = w.Inpl.StickyPortalBar = {
+            dom: {
+                elementToFix: doc.getElementsByClassName('standard-common-logo')[0],
+                elementToFixWrapper: doc.getElementsByClassName('standard-common-logo-wrapper')[0],
+                elementToCalculateTop: doc.getElementsByClassName('page-header')[0]
+            },
+            timeout: 0,
+            fixedRelocate: function () {
+                var headerTop = that.dom.elementToCalculateTop.getBoundingClientRect().top;
+
+                if (headerTop < 0) {
+                    addClass(that.dom.elementToFix, 'fixed');
+                    addClass(that.dom.elementToFixWrapper, 'container');
+                } else {
+                    removeClass(that.dom.elementToFix, 'fixed');
+                    removeClass(that.dom.elementToFixWrapper, 'container');
+                }
+            },
+            init: function () {
+                w.addEventListener('scroll', function () {
+                    if (that.timeout) {
+                        w.cancelAnimationFrame(that.timeout);
+                    }
+
+                    that.timeout = w.requestAnimationFrame(function () {
+                        that.fixedRelocate();
+                    });
+                }, false);
+
+                that.fixedRelocate();
+            }
+        };
+
+        that.init();
+
+    })(window, document);
+</script><div class="social-socialButtons social-socialButtons-header">
+        <ul class="show-popup">
+    <li class="facebook-likeButton"><fb:like send="false" width="90" show_faces="false" href="https://www.facebook.com/FaktyINTERIA" layout="button_count" ref="header"></fb:like></li>    </ul>
+</div>
+<div id="common-search" class="standard-common-search">
+    <h2 class="standard-search-header">Szukaj w serwisie</h2>
+    <form action="/szukaj" method="get">
+        <fieldset>
+            <span class="standard-search-query">
+                <input placeholder="Szukaj w serwisie..." id="search_query_1" class="search-query" type="text" name="q" value="" />
+            </span>
+            <span class="standard-submit">
+                                    <input class="standard-search-submit" type="submit" title="Szukaj" value="Szukaj">
+                            </span>
+        </fieldset>
+    </form>
+</div>
+                <div class="social-socialButtons social-socialButtons-header">
+                    <ul class="show-popup">
+                        <li id="header-facebook-likeButton" class="facebook-likeButton"></li>
+                    </ul>
+                </div>
+            </header>
+
+            <div class="page-top">
+                            <div class="nav-top-wrapper">
+        <nav class="nav-top">
+                                                                    <ul class="nav-top-list d1">
+                                                                    <li class="nav-item start selected i1 first-item">
+                            <a class="nav-item-link" href="/">Fakty</a>                        </li>
+
+                                    <li class="i2 nav-item has-submenu"><a class="nav-item-link" href="/polska">Polska</a><ul class="nav-top-list d2">                <li class="i1 nav-item first-item"><a class="nav-item-link" href="http://funduszeeuropejskielubieto.interia.pl/">Fundusze Europejskie</a></li>            <li class="i2 nav-item"><a class="nav-item-link" href="http://raportdrogowy.interia.pl/">Raport Drogowy</a></li>            <li class="i3 nav-item"><a class="nav-item-link" href="http://dzikikraj.interia.pl/">Dziki Kraj</a></li>            <li class="i4 nav-item"><a class="nav-item-link" href="http://nowahistoria.interia.pl/">Nowa Historia</a></li>            <li class="i5 nav-item last-item"><a class="nav-item-link" href="/prasa">Przegląd prasy</a></li>    </ul></li>            <li class="i3 nav-item has-submenu"><a class="nav-item-link" href="/wiadomosci-lokalne">Lokalne</a><ul class="nav-top-list d2">                <li class="i1 nav-item first-item"><a class="nav-item-link" href="/dolnoslaskie">Dolnośląskie</a></li>            <li class="i2 nav-item"><a class="nav-item-link" href="/kujawsko-pomorskie">Kujawsko-Pomorskie</a></li>            <li class="i3 nav-item"><a class="nav-item-link" href="/lodzkie">Łódzkie</a></li>            <li class="i4 nav-item"><a class="nav-item-link" href="/lubelskie">Lubelskie</a></li>            <li class="i5 nav-item"><a class="nav-item-link" href="/lubuskie">Lubuskie</a></li>            <li class="i6 nav-item"><a class="nav-item-link" href="/malopolskie">Małopolskie</a></li>            <li class="i7 nav-item"><a class="nav-item-link" href="/mazowieckie">Mazowieckie</a></li>            <li class="i8 nav-item"><a class="nav-item-link" href="/opolskie">Opolskie</a></li>            <li class="i9 nav-item"><a class="nav-item-link" href="/podkarpackie">Podkarpackie</a></li>            <li class="i10 nav-item"><a class="nav-item-link" href="/podlaskie">Podlaskie</a></li>            <li class="i11 nav-item"><a class="nav-item-link" href="/pomorskie">Pomorskie</a></li>            <li class="i12 nav-item"><a class="nav-item-link" href="/slaskie">Śląskie</a></li>            <li class="i13 nav-item"><a class="nav-item-link" href="/swietokrzyskie">Świętokrzyskie</a></li>            <li class="i14 nav-item"><a class="nav-item-link" href="/warminsko-mazurskie">Warmińsko-Mazurskie</a></li>            <li class="i15 nav-item"><a class="nav-item-link" href="/wielkopolskie">Wielkopolskie</a></li>            <li class="i16 nav-item last-item"><a class="nav-item-link" href="/zachodniopomorskie">Zachodniopomorskie</a></li>    </ul></li>            <li class="i4 nav-item"><a class="nav-item-link" href="/swiat">Świat</a></li>            <li class="i5 nav-item selected has-submenu"><a class="nav-item-link" href="/galerie">Zdjęcia</a><ul class="nav-top-list d2">                <li class="i1 nav-item first-item"><a class="nav-item-link" href="/galerie/kraj">Kraj</a></li>            <li class="i2 nav-item selected"><a class="nav-item-link" href="/galerie/swiat">Świat</a></li>            <li class="i3 nav-item"><a class="nav-item-link" href="/galerie/polskalokalna">Wiadomości Lokalne</a></li>            <li class="i4 nav-item"><a class="nav-item-link" href="/galerie/kultura">Kultura</a></li>            <li class="i5 nav-item"><a class="nav-item-link" href="/galerie/ciekawostki">Ciekawostki</a></li>            <li class="i6 nav-item"><a class="nav-item-link" href="/galerie/styl-zycia">Styl życia</a></li>            <li class="i7 nav-item"><a class="nav-item-link" href="/galerie/obyczaje">Obyczaje</a></li>            <li class="i8 nav-item"><a class="nav-item-link" href="/galerie/nauka">Nauka</a></li>            <li class="i9 nav-item"><a class="nav-item-link" href="/galerie/natura">Natura</a></li>            <li class="i10 nav-item"><a class="nav-item-link" href="/galerie/religia">Religia</a></li>            <li class="i11 nav-item"><a class="nav-item-link" href="/galerie/historia">Historia</a></li>            <li class="i12 nav-item last-item"><a class="nav-item-link" href="/galerie/wasze-zdjecia">Wasze zdjęcia</a></li>    </ul></li>            <li class="i6 nav-item"><a class="nav-item-link" href="/wideo">Wideo</a></li>            <li class="i7 nav-item has-submenu"><a class="nav-item-link" href="/opinie">Opinie</a><ul class="nav-top-list d2">                <li class="i1 nav-item first-item"><a class="nav-item-link" href="/opinie/ziemkiewicz">Rafał Ziemkiewicz</a></li>            <li class="i2 nav-item"><a class="nav-item-link" href="/opinie/graczyk">Roman Graczyk</a></li>            <li class="i3 nav-item"><a class="nav-item-link" href="/opinie/walenciak">Robert Walenciak</a></li>            <li class="i4 nav-item"><a class="nav-item-link" href="/opinie/jasinski">Grzegorz Jasiński</a></li>            <li class="i5 nav-item last-item"><a class="nav-item-link" href="/opinie/majcherek">Janusz A. Majcherek</a></li>    </ul></li>            <li class="i8 nav-item has-submenu"><a class="nav-item-link" href="/autor">Autorzy</a><ul class="nav-top-list d2">                <li class="i1 nav-item first-item"><a class="nav-item-link" href="/autor/aleksandra-gieracka">Aleksandra Gieracka</a></li>            <li class="i2 nav-item"><a class="nav-item-link" href="/autor/dominika-glowacka">Dominika Głowacka</a></li>            <li class="i3 nav-item"><a class="nav-item-link" href="/autor/dariusz-jaron">Dariusz Jaroń</a></li>            <li class="i4 nav-item"><a class="nav-item-link" href="/autor/jolanta-kaminska">Jolanta Kamińska</a></li>            <li class="i5 nav-item"><a class="nav-item-link" href="/autor/ewelina-karpinska-morek">Ewelina Karpińska-Morek</a></li>            <li class="i6 nav-item"><a class="nav-item-link" href="/autor/katarzyna-krawczyk">Katarzyna Krawczyk</a></li>            <li class="i7 nav-item"><a class="nav-item-link" href="/autor/justyna-mastalerz">Justyna Mastalerz</a></li>            <li class="i8 nav-item"><a class="nav-item-link" href="/autor/michal-michalak">Michał Michalak</a></li>            <li class="i9 nav-item"><a class="nav-item-link" href="/autor/krystyna-opozda">Krystyna Opozda</a></li>            <li class="i10 nav-item"><a class="nav-item-link" href="/autor/justyna-tomaszewska-kaczmarczyk">Justyna Kaczmarczyk</a></li>            <li class="i11 nav-item"><a class="nav-item-link" href="/autor/agnieszka-was-turecka">Agnieszka Waś-Turecka</a></li>            <li class="i12 nav-item"><a class="nav-item-link" href="/autor/artur-wroblewski">Artur Wróblewski</a></li>            <li class="i13 nav-item"><a class="nav-item-link" href="/autor/marcin-ogdowski">Marcin Ogdowski</a></li>            <li class="i14 nav-item"><a class="nav-item-link" href="/autor/lukasz-szpyrka">Łukasz Szpyrka</a></li>            <li class="i15 nav-item"><a class="nav-item-link" href="/autor/joanna-bercal">Joanna Bercal</a></li>            <li class="i16 nav-item last-item"><a class="nav-item-link" href="/autor/agnieszka-maj">Agnieszka Maj</a></li>    </ul></li>            <li class="i9 nav-item"><a class="nav-item-link" href="/new-york-times">New York Times</a></li>            <li class="i10 nav-item"><a class="nav-item-link" href="/kultura">Kultura</a></li>            <li class="i11 nav-item"><a class="nav-item-link" href="/historia">Historia</a></li>            <li class="i12 nav-item"><a class="nav-item-link" href="/nauka">Nauka</a></li>            <li class="i13 nav-item"><a class="nav-item-link" href="/religia">Religia</a></li>            <li class="i14 nav-item"><a class="nav-item-link" href="/ciekawostki">Ciekawostki</a></li>            <li class="i15 nav-item"><a class="nav-item-link" href="/raporty">Raporty specjalne</a></li>            <li class="i16 nav-item"><a class="nav-item-link" href="/ankiety">Ankiety</a></li>            <li class="i17 nav-item last-item"><a class="nav-item-link" href="/konkursy">Konkursy</a></li>                    </ul>
+
+                                </nav>
+    </div>
+    <section class="breadcrumbs hidden-sm hidden-rs hidden-xs">
+                            <div class="breadcrumbs-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                    <a class="breadcrumbs-link i1" href="http://www.interia.pl" itemprop="url">
+                        <span itemprop="title">Interia</span>
+                    </a>
+
+                                                </div>
+                                <div class="breadcrumbs-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                    <a class="breadcrumbs-link i2" href="/" itemprop="url">
+                        <span itemprop="title">Fakty</span>
+                    </a>
+
+                                                </div>
+                                <div class="breadcrumbs-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                    <a class="breadcrumbs-link i3" href="/galerie" itemprop="url">
+                        <span itemprop="title">Galerie</span>
+                    </a>
+
+                                                </div>
+                                <div class="breadcrumbs-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                    <a class="breadcrumbs-link i4" href="/galerie/swiat" itemprop="url">
+                        <span itemprop="title">Świat</span>
+                    </a>
+
+                                                </div>
+                                <div class="breadcrumbs-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                                            <strong class="i5 ilast breadcrumbs-current" itemprop="title">Odeszli 2018 (świat)</strong>
+                                        <meta itemprop="url" content="https://fakty.interia.pl/galerie/swiat/odeszli-w-minionym-roku-swiat-zdjecie,iId,2593915,iAId,309611" />
+                            </div>
+                        </section>
+                            </div>
+
+        </div>
+
+
+
+
+    <div id="gallery-XqLjJ0yCDu-5689848" class="inpl-gallery">
+        <figure class="inpl-gallery-container" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="datePublished" content="2018-10-17 08:52:05">
+
+            <header class="inpl-gallery-header">
+                <h2 class="inpl-gallery-header-title" itemprop="name">Odeszli 2018 (świat)</h2>
+                            </header>
+
+            <div class="inpl-gallery-content">
+                            </div>
+
+            <figcaption class="inpl-gallery-caption">
+                <div class="inpl-gallery-caption-wrap">
+                    <div class="inpl-gallery-desc">
+                        <div class="desc-container">
+                            <div class="desc-wrap">
+                                <span class="inpl-gallery-header-info">
+                                    <i class="current">1</i>
+                                    <i class="total">29</i>
+                                </span>
+                                <div class="desc-content" itemprop="description">
+                                    Po 1 listopada 2017 roku pożegnaliśmy wiele znanych postaci ze świata kultury, polityki czy nauki. Odchodzili idole młodzieży, jak Mac Miller, i wybitne umysły, jak Stephen Hawking. Zubożał świat literatury, pozbawiony piór Ursuli K. Le Guin czy Philipa Rotha, a melomani nie usłyszą już na żywo królowej soulu Arethy Franklin. Amerykanie musieli również pogodzić się ze stratą dwóch niezwykle szanowanych postaci: senatora Johna McCaina i byłej pierwszej damy Barbary Bush. Zapraszamy do obejrzenia naszej galerii zdjęć i wspomnienia zmarłych ze świata.
+
+                Malcolm Young (ur. 6 stycznia 1953 r. - zm. 18 listopada 2017 r.) - australijsko-szkocki gitarzysta, współzałożyciel AC/DC                                </div>
+
+                                <dl class="inpl-gallery-caption-info author source">
+                                    <dt class="inpl-gallery-author-dt">Autor zdjęcia:</dt>
+                                    <dd class="inpl-gallery-author-dd" itemprop="author">Kevin P Coughlin / Splash News</dd>
+                                    <dt class="inpl-gallery-source-dt">Źródło:</dt>
+                                    <dd class="inpl-gallery-source-dd">East News</dd>
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="inpl-gallery-footer">
+                        <div class="inpl-gallery-buttons">
+                            <div class="inpl-gallery-buttons-social show-popup">
+                                <a class="share-link is-facebook" rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fzdjecie%2CiId%2C2593915%2CiAId%2C309611%23utm_source%3Dfb%26utm_medium%3Dfb_share%26utm_campaign%3Dfb_share%26iwa_source%3Dfb_share" target="_blank" onclick="iwa('trackEvent', 'social', 'galeria_strona', 'klik', 'fb'); "></a>                                <a class="share-link is-plusone" rel="nofollow" href="https://plus.google.com/share?url=http%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fzdjecie%2CiId%2C2593915%2CiAId%2C309611" target="_blank" onclick="iwa('trackEvent', 'social', 'galeria_strona', 'klik', 'gplus'); "></a>                                <a class="share-link is-twitter" rel="nofollow" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fzdjecie%2CiId%2C2593915%2CiAId%2C309611" target="_blank" onclick="iwa('trackEvent', 'social', 'galeria_strona', 'klik', 'twitter'); "></a>                            </div>
+
+                                                    </div>
+
+
+                                                        <div class="inpl-gallery-ad">    <!-- DFP/dfp_box300x250_galeria --><div class="box adBox adRefreshable" id="adRefreshable1"><div class="boxBegin" ></div><div class="boxHeader"><h3>Reklama</h3></div><div class="boxBody" data-iwa-viewability-name="dfp_box300x250_galeria"><div id="dfp-box300x250_galeria" align="center"><script>if(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-box300x250_galeria');});}</script></div></div><div class="boxEnd"></div></div></div>
+                                            </div>
+                </div>
+
+                <div class="inpl-gallery-caption-count">29</div>
+            </figcaption>
+        </figure>
+    </div>
+
+
+
+    <div class="container page-container">
+        <div id="content" class="row">
+                                                    <div class="main-content col-xs-12 col-rs-12 col-sm-12 col-md-8 col-lg-8">
+                    <div id="commentsZoneList"></div>
+<div id="comments4-1" class="comments-placeholder" data-iwa-viewability-name="comments4-1"></div>
+
+<div id="comments4MostInterestingTopics-1" class="most-interesting-topics-placeholder place-main-content transition">
+            <span class="most-interesting-topics-header">Najlepsze tematy</span>
+        <ul class="most-interesting-topics-list clearfix">
+                            <li class="most-interesting-topics-list-item clearfix">
+                    <a href="https://forum.interia.pl/jeszcze-nie-uchwalona-a-juz-podpisana-cuda-polskiej-legislacji-tematy,dId,3262925?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                       title="Jeszcze nie uchwalona, a już podpisana? W sieci wrze!"
+                       class="most-interesting-topics-thumbnail-link">
+                        <img class="most-interesting-topics-thumbnail-img"
+                             width="90"
+                             height="65"
+                             src="https://i.iplsc.com/-/000798NIYL3P9656-C410.jpg"
+                             alt="Jeszcze nie uchwalona, a już podpisana? W sieci wrze!"/>
+                    </a>
+                    <div class="most-interesting-topics-dumy">
+                        <a href="https://forum.interia.pl/jeszcze-nie-uchwalona-a-juz-podpisana-cuda-polskiej-legislacji-tematy,dId,3262925?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                           title="Jeszcze nie uchwalona, a już podpisana? W sieci wrze!"
+                           class="most-interesting-topics-title-link">
+                            <span class="most-interesting-topics-title-link-text">Jeszcze nie uchwalona, a już podpisana? W sieci wrze!</span>
+                        </a>
+                    </div>
+                                    </li>
+
+                                <li class="most-interesting-topics-list-item clearfix">
+                    <a href="https://forum.interia.pl/co-europoslowie-z-pisu-sadza-o-neofaszystach-tematy,dId,3261463?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                       title="Szykuje się kolejny konflikt Polski z Unią? Tym razem poszło o..."
+                       class="most-interesting-topics-thumbnail-link">
+                        <img class="most-interesting-topics-thumbnail-img"
+                             width="90"
+                             height="65"
+                             src="https://i.iplsc.com/-/0006ZL3ORLR1VAS6-C410.jpg"
+                             alt="Szykuje się kolejny konflikt Polski z Unią? Tym razem poszło o..."/>
+                    </a>
+                    <div class="most-interesting-topics-dumy">
+                        <a href="https://forum.interia.pl/co-europoslowie-z-pisu-sadza-o-neofaszystach-tematy,dId,3261463?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                           title="Szykuje się kolejny konflikt Polski z Unią? Tym razem poszło o..."
+                           class="most-interesting-topics-title-link">
+                            <span class="most-interesting-topics-title-link-text">Szykuje się kolejny konflikt Polski z Unią? Tym razem poszło o...</span>
+                        </a>
+                    </div>
+                                    </li>
+
+                                <li class="most-interesting-topics-list-item clearfix">
+                    <a href="https://forum.interia.pl/byla-ogorek-a-teraz-miller-znow-zamierza-wystawic-nowa-kobieca-twarz-w-wyborach-prezydenckich-tematy,dId,3260834?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                       title="Miller ma już kandydata na prezydenta? Nazwisko zaskakuje"
+                       class="most-interesting-topics-thumbnail-link">
+                        <img class="most-interesting-topics-thumbnail-img"
+                             width="90"
+                             height="65"
+                             src="https://i.iplsc.com/-/0007OLUSNQQJGNXP-C410.jpg"
+                             alt="Miller ma już kandydata na prezydenta? Nazwisko zaskakuje"/>
+                    </a>
+                    <div class="most-interesting-topics-dumy">
+                        <a href="https://forum.interia.pl/byla-ogorek-a-teraz-miller-znow-zamierza-wystawic-nowa-kobieca-twarz-w-wyborach-prezydenckich-tematy,dId,3260834?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                           title="Miller ma już kandydata na prezydenta? Nazwisko zaskakuje"
+                           class="most-interesting-topics-title-link">
+                            <span class="most-interesting-topics-title-link-text">Miller ma już kandydata na prezydenta? Nazwisko zaskakuje</span>
+                        </a>
+                    </div>
+                                    </li>
+
+                                <li class="most-interesting-topics-list-item clearfix">
+                    <a href="https://forum.interia.pl/wariuje-ze-stresu-przed-spotkaniem-z-mezczyzna-tematy,dId,3247407?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                       title="Większość kobiet to robi, ale nie chce się przyznać!"
+                       class="most-interesting-topics-thumbnail-link">
+                        <img class="most-interesting-topics-thumbnail-img"
+                             width="90"
+                             height="65"
+                             src="https://i.iplsc.com/-/0007MLL3PKSA2DRS-C410.jpg"
+                             alt="Większość kobiet to robi, ale nie chce się przyznać!"/>
+                    </a>
+                    <div class="most-interesting-topics-dumy">
+                        <a href="https://forum.interia.pl/wariuje-ze-stresu-przed-spotkaniem-z-mezczyzna-tematy,dId,3247407?parametr=najlepsze_tematy&iwa_source=najlepsze_tematy"
+                           title="Większość kobiet to robi, ale nie chce się przyznać!"
+                           class="most-interesting-topics-title-link">
+                            <span class="most-interesting-topics-title-link-text">Większość kobiet to robi, ale nie chce się przyznać!</span>
+                        </a>
+                    </div>
+                                    </li>
+
+                        </ul>
+    </div>
+                </div>
+                                            </div>
+    </div>
+            <div class="container page-footer-main">
+            <div class="row">
+                <div class="col-xs-12 col-rs-12 col-sm-12 col-md-12 col-lg-12 footer-main-content">
+                        <div class="box ad promocyjni_gazetka_dol" id="promocyjni_gazetka_dol1">
+        <div class="boxBegin"></div>
+        <div class="boxHeader">
+                            <h3>Reklama</h3>
+                    </div>
+        <div class="boxBody" data-iwa-viewability-name="promocyjni_gazetka_dol">
+            <script>
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("promocyjni_gazetka_dol", null, null);
+        }
+
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+</script>        </div>
+        <div class="boxEnd"></div>
+    </div>
+
+
+
+    <!-- DFP/dfp_dol_srodek --><div class="box ad dol_srodek dol_srodek_ads_box" ><div class="boxBegin" ></div><div class="boxHeader"><h3>Reklama</h3></div><div class="boxBody" data-iwa-viewability-name="dfp_dol_srodek"><div id="dfp-dol_srodek" align="center"><script>if(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-dol_srodek');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_dol_srodek",
+                    element: document.querySelector("#dfp-dol_srodek").parentElement
+                }).markAsLoaded();
+            }</script></div></div><div class="boxEnd"></div></div><div id="crt-214132" style="width:750px;height:200px;margin:0 auto;"></div><script type="text/javascript">var Criteo = Criteo || {};
+                        Criteo.events = Criteo.events || [];
+                        Criteo.events.push(function() {
+                            Criteo.DisplayAcceptableAdIfAdblocked({
+                                "zoneid": 676990,
+                                "containerid": "crt-214132"
+                            });
+                        });</script>    <div class="box ad belka_stopka belka_stopka" id="belka_stopka1">
+        <div class="boxBegin"></div>
+        <div class="boxHeader">
+                            <h3>Reklama</h3>
+                    </div>
+        <div class="boxBody" data-iwa-viewability-name="belka_stopka">
+            <script>
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("belka_stopka", null, null);
+        }
+
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+</script>        </div>
+        <div class="boxEnd"></div>
+    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+                <footer class="page-footer">
+            <div class="container">
+                <div class="row">
+                                <div class="nav-footer-wrapper">
+        <nav class="nav-footer pull-left col-rs-12 col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <h2 class="nav-footer-header">Na skróty</h2>                                                        <ul class="nav-footer-list d1">
+
+                                    <li class="i1 nav-item first-item napisz-do"><a class="nav-item-link" href="/napisz-do-nas">Napisz do nas</a></li>            <li class="i2 nav-item map"><a class="nav-item-link" href="/mapa-serwisu">Mapa Serwisu</a></li>            <li class="i3 nav-item newsroom"><a class="nav-item-link" href="/newsroom-index">Newsroom</a></li>            <li class="i4 nav-item rss"><a class="nav-item-link" href="/feed">RSS</a></li>            <li class="i5 nav-item mobile"><a class="nav-item-link" href="http://m.interia.pl/info">W komórce</a></li>            <li class="i6 nav-item last-item reklama"><a class="nav-item-link" href="http://reklama.interia.pl/">Reklama</a></li>                    </ul>
+
+                                </nav>
+    </div>
+        <nav class="nav-footer-links pull-left hidden-rs hidden-xs hidden-sm col-md-4 col col-lg-4">
+                                                        <h4 class="nav-footer-links-header">Polecane</h4>                    <ul class="nav-footer-links-list i1">
+                        <li class="nav-footer-links-item"><a href="http://mojeinwestycje.interia.pl/gie/notgpw/notc/c_akcje" class="nav-footer-links-item-link i1">Notowania giełdowe</a></li><li class="nav-footer-links-item"><a href="http://news.fakty.interia.pl" class="nav-footer-links-item-link i2">News Fakty</a></li><li class="nav-footer-links-item"><a href="http://www.ravelo.pl/podreczniki-szkolne" class="nav-footer-links-item-link i3">Podręczniki szkolne</a></li><li class="nav-footer-links-item"><a href="http://mojeinwestycje.interia.pl/wal/wal_on" class="nav-footer-links-item-link i4">Kursy walut</a></li><li class="nav-footer-links-item"><a href="http://www.cdaction.pl" class="nav-footer-links-item-link i5">Gry</a></li><li class="nav-footer-links-item"><a href="http://lotto.interia.pl" class="nav-footer-links-item-link i6">Lotto</a></li><li class="nav-footer-links-item"><a href="http://e-turysta.pl" class="nav-footer-links-item-link i7">E-turysta</a></li><li class="nav-footer-links-item"><a href="http://motoryzacja.interia.pl" class="nav-footer-links-item-link i8">Motoryzacja</a></li><li class="nav-footer-links-item"><a href="http://firma.interia.pl/dla_prasy/2007621" class="nav-footer-links-item-link i9">Martina Barosso - dohop.com</a></li><li class="nav-footer-links-item"><a href="http://rynekpierwotny.pl/" class="nav-footer-links-item-link i10 nav-footer-links-item-last">Mieszkania - Rynekpierwotny.pl</a></li>                    </ul>
+                                        </nav>
+        <div class="footer-text pull-left hidden-rs hidden-xs hidden-sm col-md-4 col-lg-4">
+                    <div class="footer-logo">
+                            <a class="footer-logo-interia" href="http://www.interia.pl"><img src="/i/interia-logo-2-0.svg" alt="INTERIA.PL" width="116" height="32"></a>
+                                                <a class="footer-logo-service" href="/#iwa_source=logo" rel="home"><img src="/i/fakty-logo-2-0.svg" alt="Serwis" width="48" height="10"></a>
+                            </div>
+
+        Fakty to Twoje źródło aktualnych wiadomości z kraju i ze świata. Codzienna porcja najważniejszych informacji z kategorii polityka, wybory, kultura, nauka, historia, religia i ciekawostki. Bądź dobrze poinformowany - starannie wyselekcjonowane wiadomości dnia, ważne fakty i newsy dotyczące Polski, Unii Europejskiej i świata    </div>
+<div class="common-copyright" id="common_copyright_1">
+    <p>Korzystanie z portalu oznacza akceptację <a href="/regulamin" class="rules-link">Regulaminu</a>.   <a href="http://prywatnosc.interia.pl" class="rules-link" rel="nofollow">Prywatność</a>. Copyright by <strong><a href="/inne-serwisy" class="copyrights-link">INTERIA.PL</a></strong> 1999-2018. Wszystkie prawa zastrzeżone.</p>
+</div>                </div>
+            </div>
+        </footer>
+            <script type="text/javascript" src="https://w.iplsc.com/internal/jquery.lazyresize/1.0.1/jquery.lazyresize.js"></script>
+<script type="text/javascript" src="https://w.iplsc.com/internal/inpl.grid/1.0.0/inpl.grid.js"></script>
+<script type="text/javascript" src="https://w.iplsc.com/internal/inpl.navigation/2.0.3/inpl.navigation.js"></script>
+<script type="text/javascript" src="/j/common-cbdf74b5105a5d498a9cfb9789dfbd64.js"></script>
+<script type="text/javascript" src="/j/emails.js"></script>
+<script type="text/javascript">
+    //<!--
+
+jQuery(document).ready(function(){
+(function ($) { var url = 'http://www.interia.pl/#utm_source=msg&utm_medium=fakty&utm_campaign=x01' + Math.random().toString(36).replace(/[^a-z]+/g, '').substr(0, 5), selectors = 'body, .areaPre, .area, .areaPre .topbar', times = [5, 10, 15, 30, 60], localStorageName = 'lltsg', localStorage = { get: function (name) { return Inpl.storage ? Inpl.storage(name) : null; }, set: function (name) { return Inpl.storage ? Inpl.storage(name, 1, {expires: 14, domain: 'interia.pl'}) : null; } }, bgCheck = function () { var bg = $('body').css('background-image'); return (bg === 'none') ? false : ((bg.indexOf(window.location.host) === -1) ? true : false); }, removeLink = function () { $('body').unbind('click.margin-sg'); }; if (window.innerWidth < 1000) { return; } if (localStorage.get(localStorageName) !== 1) { $.each(times, function (k, v) { setTimeout(function () { if (bgCheck()) { removeLink(); } else if (k === 0) { $('body').bind('click.margin-sg', function (e) { if ($(e.target).is(selectors) && localStorage.get(localStorageName) !== 1) { window.open(url, '_blank'); localStorage.set(localStorageName); $('body').unbind('click.margin-sg'); } }); } }, v * 1000); }); } })(jQuery);
+});
+jQuery(document).ready(function(){
+function isMobileTopbarEnabledService(hostName) {
+var disabledHostsList = [
+'.interia.pl'
+];
+var disabledHostsListLength = disabledHostsList.length;
+var i;
+
+for (i = 0; i < disabledHostsListLength; i++) {
+if (hostName.indexOf(disabledHostsList[i]) > -1) {
+return false;
+}
+}
+
+return true;
+}
+
+if (window.innerWidth < 1000 && isMobileTopbarEnabledService(window.location.hostname)) {
+var mobileTopbarScript = document.createElement('script');
+mobileTopbarScript.type = 'text/javascript';
+mobileTopbarScript.src = 'https://js.iplsc.com/inpl.mobile-topbar/1.0.8/inpl.mobile-topbar.js';
+document.head.appendChild(mobileTopbarScript);
+
+mobileTopbarScript.addEventListener('load', function() {
+if (Inpl && Inpl.MobileTopBar){
+Inpl.MobileTopBar.init({
+portalUrl: 'http://www.interia.pl/#utm_source=rwd&utm_medium=belka&utm_campaign=powrot_z_zew',
+serviceFanpageUrl: 'https://www.facebook.com/FaktyINTERIA',
+hoverLinkColor: '#2889C6'
+});
+}
+});
+}
+});    //-->
+</script>
+<script type="text/javascript" src="https://js.iplsc.com/inpl.portal-bar-menu/1.0.22/inpl.portal-bar-menu.js"></script>
+<script type="text/javascript" src="https://js.iplsc.com/popup/1.0.3/popup.js"></script>
+<script type="text/javascript">
+    //<!--
+
+jQuery(document).ready(function(){
+window.fbAsyncInit = function() {
+FB.init({
+appId : 438577716225831,
+cookie : true,
+xfbml : true
+});
+try {
+if (FB && FB.Event && FB.Event.subscribe) {
+var fbLikeIwa = function(widget, status) {
+var params = widget.getAttribute('data-iwa');
+if (params) {
+var args = Array.prototype.slice.call(JSON.parse(params));
+if(status == "unlike") {
+args[2]= "un" + args[2];
+}
+if(args.length == 8 && args[7] == "iwaCheckForMobParam"){
+if(window.Inpl.Mobile.Detect!="undefined" && window.Inpl.Mobile.Detect.isMobile){
+if(status == "unlike") {
+args[5] = "un" + args[5];
+}
+args[2]= args[5];
+args[4]= args[6];
+}
+args=args.slice(0,5);
+}
+iwa.apply(this, args);
+}
+};
+
+FB.Event.subscribe('edge.create', function(href, widget) {
+
+fbLikeIwa(widget,"like");
+
+var ref = widget.getAttribute('ref');
+if (ref) {
+_gaq.push(['b._trackSocial', 'facebook', 'like-'+ref, href]);
+}
+});
+FB.Event.subscribe('edge.remove', function(href, widget) {
+
+fbLikeIwa(widget,"unlike");
+
+var ref = widget.getAttribute('ref');
+if (ref) {
+_gaq.push(['b._trackSocial', 'facebook', 'unlike-'+ref, href]);
+}
+});
+}
+} catch(e) {}
+};
+(function(d, s, id, localization, debug) {
+var js, ref = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) { return; }
+js = d.createElement(s); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/" + localization + "/all" + (debug ? "/debug" : "") + ".js";
+ref.parentNode.insertBefore(js, ref);
+}(document, 'script', 'facebook-jssdk', 'pl_PL', false));
+});
+jQuery(document).ready(function(){
+jQuery("#common-search").find("form").submit(function(){ if (jQuery(this).find("input#search_query_1").val().length === 0){return false;} });
+});    //-->
+</script>
+<script type="text/javascript" src="https://w.iplsc.com/external/jquery.pscrollbar/0.5.8/jquery.pscrollbar.js"></script>
+<script type="text/javascript" src="https://js.iplsc.com/inpl.gallery/2.2.31/inpl.gallery.js"></script>
+<script type="text/javascript">
+    //<!--
+
+jQuery(document).ready(function(){
+new Inpl.Gallery({"id":309611,"elId":"gallery-XqLjJ0yCDu-5689848","itemIndex":0,"count":29,"isEmbed":0,"isDisloyalGalleryEnabled":true,"baseArticleUrl":"","items":[{"id":2593915,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXX6Q6LFG0OE-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Po 1 listopada 2017 roku po\u017cegnali\u015bmy wiele znanych postaci ze \u015bwiata kultury, polityki czy nauki. Odchodzili idole m\u0142odzie\u017cy, jak Mac Miller, i wybitne umys\u0142y, jak Stephen Hawking. Zubo\u017ca\u0142 \u015bwiat literatury, pozbawiony pi\u00f3r Ursuli K. Le Guin czy Philipa Rotha, a melomani nie us\u0142ysz\u0105 ju\u017c na \u017cywo kr\u00f3lowej soulu Arethy Franklin. Amerykanie musieli r\u00f3wnie\u017c pogodzi\u0107 si\u0119 ze strat\u0105 dw\u00f3ch niezwykle szanowanych postaci: senatora Johna McCaina i by\u0142ej pierwszej damy Barbary Bush. Zapraszamy do obejrzenia naszej galerii zdj\u0119\u0107 i wspomnienia zmar\u0142ych ze \u015bwiata.\r\n\r\n                Malcolm Young (ur. 6 stycznia 1953 r. - zm. 18 listopada 2017 r.) - australijsko-szkocki gitarzysta, wsp\u00f3\u0142za\u0142o\u017cyciel AC\/DC","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593915,iAId,309611","author":"Kevin P Coughlin \/ Splash News","source":"East News"}},{"id":2599696,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU40XOKSDG4A-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Jana Novotna (ur. 2 pa\u017adziernika 1968 r. - zm. 19 listopada 2017 r.) - czeska tenisistka, zwyci\u0119\u017cczyni Wimbledonu","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599696,iAId,309611","source":"AFP"}},{"id":2593916,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXXD31WJ0COH-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Micha\u0142 Hohenzollern-Sigmaringen (ur. 25 pa\u017adziernika 1921 r. - zm. 5 grudnia 2017 r.) - ostatni kr\u00f3l Rumunii","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593916,iAId,309611","source":" "}},{"id":2593899,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXUYWUJ7B2BH-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Dolores O'Riordan (ur. 6 wrze\u015bnia 1971 r. - zm. 15 stycznia 2018 r.) - wokalistka irlandzkiego zespo\u0142u The Cranberries","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593899,iAId,309611","source":"AFP"}},{"id":2593924,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXY489ME25JA-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Ursula K. Le Guin (ur. 21 pa\u017adziernika 1929 r. - zm. 22 stycznia 2018 r.) - ameryka\u0144ska pisarka science-fiction i fantasy","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593924,iAId,309611","source":"AFP"}},{"id":2593902,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXVRR4B9BUED-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Ingvar Kamprad (ur. 30 marca 1926 r. - zm. 27 stycznia 2018 r.) - szwedzki przedsi\u0119biorca, za\u0142o\u017cyciel i wieloletni prezes Ikei","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593902,iAId,309611","source":"AFP"}},{"id":2593906,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXVY0JTFQFWB-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Henryk - ksi\u0105\u017c\u0119 ma\u0142\u017conek Danii, m\u0105\u017c Ma\u0142gorzaty II, kr\u00f3lowej Danii (ur. 11 czerwca 1934 r. - zm. 13 lutego 2018 r.)","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593906,iAId,309611","source":"AFP"}},{"id":2599693,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU3D9X1ABQSS-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Jan Kuciak (ur. (ur. 15 maja 1990 r. - zm. 25 lutego 2018 r.) - zamordowany s\u0142owacki dziennikarz \u015bledczy","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599693,iAId,309611","source":"AFP"}},{"id":2599699,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU4GCL2F1VBX-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Davide Astori (ur. 7 stycznia 1987 r. - zm. 4 marca 2018 r.) - w\u0142oski pi\u0142karz, kapitan Fiorentiny","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599699,iAId,309611","source":"AFP"}},{"id":2599701,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU51E8Y5VY73-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Karl Lehmann (ur. 16 maja 1936 r. - zm. 11 marca 2018 r.) - niemiecki kardyna\u0142, by\u0142y biskup Moguncji","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599701,iAId,309611","source":"AFP"}},{"id":2593922,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXXSOXMBOHEK-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Stephen Hawking (ur. 8 stycznia 1942 r. - zm. 14 marca 2018 r.) - brytyjski astrofizyk i kosmolog, autor \"Kr\u00f3tkiej historii czasu\"","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593922,iAId,309611","source":"AFP"}},{"id":2593911,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXWLHML77GNX-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Lys Assia (ur. 3 marca 1924 r. - zm. 24 marca 2018 r.) - szwajcarska piosenkarka, zwyci\u0119\u017cczyni 1. Konkursu Piosenki Eurowizji w 1956 r.","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593911,iAId,309611","source":"AFP"}},{"id":2593867,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXSSUEJFKJ3R-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Milo\u0161 Forman (ur. 18 lutego 1932 r. - zm. 13 kwietnia 2018 r.) - czeski re\u017cyser, autor m.in. \"Lotu nad kuku\u0142czym gniazdem\" i \"Amadeusza\"","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593867,iAId,309611","source":"AFP"}},{"id":2593890,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXU88R8SB6X9-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Barbara Bush (ur. 8 czerwca 1925 r. - zm. 17 kwietnia 2018 r.) - by\u0142a pierwsza dama USA, \u017cona i matka prezydent\u00f3w USA: George'a H.W. Busha i George'a W. Busha","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593890,iAId,309611","source":"AFP"}},{"id":2593872,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXU4B6V09D4I-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Avicii (ur. 8 wrze\u015bnia 1989 r. - 20 kwietnia 2018 r.) - szwedzki DJ i producent muzyczny","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593872,iAId,309611","source":"AFP"}},{"id":2593920,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXXMCPJKBUC7-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Richard Pipes (ur. 11 lipca 1923 r. - zm. 17 maja 2018 r.) - ameryka\u0144ski historyk i sowietolog, polsko-\u017cydowskiego pochodzenia","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593920,iAId,309611","author":" Krystian Maj","source":"Reporter"}},{"id":2593919,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXXHN15Q8Y87-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Philip Roth (ur. 19 marca 1933 r. - zm. 22 maja 2018 r.) - ameryka\u0144ski pisarz, laureat m.in. Pulitzera i Bookera","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593919,iAId,309611","source":"AFP"}},{"id":2593868,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXT57VSEJIX7-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Anthony Bourdain (ur. 25 czerwca 1956 r. - zm. 8 czerwca 2018 r.) - ameryka\u0144ski szef kuchni, autor program\u00f3w kulinarno-podr\u00f3\u017cniczych","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593868,iAId,309611","source":"AFP"}},{"id":2599700,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU4O1IFO6Q8V-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"V.S. Naipaul (ur. 17 sierpnia 1932 r. - zm. 11 sierpnia 2018 r.) - brytyjski pisarz, laureat Nagrody Nobla","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599700,iAId,309611","source":"AFP"}},{"id":2593871,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXTQDII1JQ1X-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Aretha Franklin (ur. 25 marca 1942 r. - zm. 16 sierpnia 2018 r.) - ameryka\u0144ska piosenkarka, kr\u00f3lowa soulu","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593871,iAId,309611","source":"AFP"}},{"id":2599689,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU30JK7B16QA-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Kofi Annan (ur. 8 kwietnia 1938 r. - zm. 18 sierpnia 2018 r.) - by\u0142y sekretarz generalny ONZ","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599689,iAId,309611","source":"AFP"}},{"id":2593904,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXVT50NCNCOG-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"John McCain (ur. 29 sierpnia 1936 r. - zm. 25 sierpnia 2018 r.) - ameryka\u0144ski senator, weteran wojenny, by\u0142y kandydat republikank\u00f3w na prezydenta","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593904,iAId,309611","source":"AFP"}},{"id":2593898,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXUNXC0XPRRH-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Burt Reynolds (ur. 11 lutego 1936 r. - zm. 6 wrze\u015bnia 2018 r.) - ameryka\u0144ski aktor, re\u017cyser, scenarzysta, producent","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593898,iAId,309611","source":"AFP"}},{"id":2593913,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007NXX46I4XFBDU-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Mac Miller (ur. 19 stycznia 1992 r. - zm. 7 wrze\u015bnia 2018 r.) - ameryka\u0144ski raper i producent","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2593913,iAId,309611","source":"AFP"}},{"id":2599703,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU5EJ41QN2CJ-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Charles Aznavour (ur. 22 maja 1924 r. - zm. 1 pa\u017adziernika 2018 r.) - francuski piosenkarz i aktor ormia\u0144skiego pochodzenia","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599703,iAId,309611","source":"AFP"}},{"id":2599688,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU2SYR1QO6VU-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Montserrat Caball\u00e9 (ur. 12 kwietnia 1933 r. - zm. 6 pa\u017adziernika 2018 r.) - hiszpa\u0144ska \u015bpiewaczka operowa","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599688,iAId,309611","source":"AFP"}},{"id":2599691,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU35WFG0NAJR-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Paul Allen (ur. 21 stycznia 1953 r. - zm. 15 pa\u017adziernika 2018 r.) - ameryka\u0144ski przedsi\u0119biorca i filantrop, wsp\u00f3\u0142za\u0142o\u017cyciel Microsoftu","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599691,iAId,309611","source":"AFP"}},{"id":2599695,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU3SXQU3XE93-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"D\u017camal Chaszod\u017cd\u017ci (ur. 13 pa\u017adziernika 1958 r. - zm. 2 pa\u017adziernika 2018 r.) - zamordowany saudyjski dziennikarz","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599695,iAId,309611","source":"AFP"}},{"id":2599707,"isEmbedGallery":0,"commentsOff":0,"advertisementsOff":0,"isDisloyalGalleryEnabled":true,"src":"https:\/\/i.iplsc.com\/odeszli-2018-swiat\/0007OU61JD7X4RJD-C322-F4.jpg","data":{"title":"Odeszli 2018 (\u015bwiat)","desc":"Gilberto Benetton (ur. 19 czerwca 1941 r. - zm. 22 pa\u017adziernika 2018 r.) - w\u0142oski miliarder, wsp\u00f3\u0142za\u0142o\u017cyciel modowego konglomeratu Benetton Group, kt\u00f3ry prowadzi\u0142 wraz z rodze\u0144stwem","surl":"http:\/\/fakty.interia.pl","rurl":"galerie\/swiat\/zdjecie,iId,2599707,iAId,309611","source":"AFP"}}],"photoClass":"C322-F4","dfpSlotName":"dfp_box300x250_galeria","plugins":{"viewport":{},"caption":{},"preload":{},"ad":{"adsplace":"box300x250_galeria"},"stats":{},"keyboard":{},"history":{},"recomendations":{"items":[{"title":"Domagaj\u0105 si\u0119 \u015bmierci Asi Bibi","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2600862,iAId,310791","img":"https:\/\/i.iplsc.com\/domagaja-sie-smierci-asi-bibi\/0007OZ9FNXS47NNE-C459.jpg"},{"title":"Harry i Meghan z wizyt\u0105 w Nowej Zelandii","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2600309,iAId,310717","img":"https:\/\/i.iplsc.com\/harry-i-meghan-z-wizyta-w-nowej-zelandii\/0007OXCIO72LVPT0-C459.jpg"},{"title":"\u015anie\u017cyce w Hiszpanii. Zima sparali\u017cowa\u0142a kraj","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2599492,iAId,310589","img":"https:\/\/i.iplsc.com\/sniezyce-w-hiszpanii-zima-sparalizowala-kraj\/0007OSO52PET1N88-C459.jpg"},{"title":"Wenecja pod wod\u0105","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2599285,iAId,310566","img":"https:\/\/i.iplsc.com\/wenecja-pod-woda\/0007ORJ70JSDG8TD-C459.jpg"},{"title":"Merkel, Putin, Erdogan i Macron spotkali si\u0119 w Stambule","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2599071,iAId,310531","img":"https:\/\/i.iplsc.com\/merkel-putin-erdogan-i-macron-spotkali-sie-w-stambule\/0007OQ95EV9MD23A-C459.jpg"},{"title":"T\u0142um migrant\u00f3w maszeruje do USA","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2599043,iAId,310523","img":"https:\/\/i.iplsc.com\/tlum-migrantow-maszeruje-do-usa\/0007OPZGNT7J7AVL-C459.jpg"},{"title":"Najwi\u0119ksze od czas\u00f3w zimnej wojny \u0107wiczenia NATO","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2598683,iAId,310448","img":"https:\/\/i.iplsc.com\/najwieksze-od-czasow-zimnej-wojny-cwiczenia-nato\/0007ON6MCBKY3LR2-C459.jpg"},{"title":"Sklep, w kt\u00f3rym kupiono los wart 1,6 mld dolar\u00f3w","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2597888,iAId,310346","img":"https:\/\/i.iplsc.com\/sklep-w-ktorym-kupiono-los-wart-1-6-mld-dolarow\/0007OIX64906UTMM-C459.jpg"},{"title":"Ulice Rzymu zamieni\u0142y si\u0119 w rw\u0105ce potoki","href":"http:\/\/fakty.interia.pl\/galerie\/swiat\/zdjecie,iId,2596781,iAId,310180","img":"https:\/\/i.iplsc.com\/ulice-rzymu-zamienily-sie-w-rwace-potoki\/0007ODDQF1XNHHW7-C459.jpg"}]}}});
+});    //-->
+</script>
+<script type="text/javascript" src="https://js.iplsc.com/inpl.forum4/1.0.55/inpl.forum4.js"></script>
+<script type="text/javascript">
+    //<!--
+
+jQuery(document).ready(function(){
+var forum = Inpl.ForumManager.recreateInstance({
+placeName: 'comments4-1',
+containerDom: document.getElementById('comments4-1'),
+objectId: 2593915,
+objectType: 'photo',
+captchaServiceUrl: 'https://captcha.interia.pl',
+portalId: 4,
+loginUrl: '//poczta.interia.pl?referer=https%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fodeszli-w-minionym-roku-swiat-zdjecie%2CiId%2C2593915%2CiAId%2C309611&crc=2939206113',
+logoutUrl: '//logowanie.interia.pl/poczta/wyloguj?referer=https%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fodeszli-w-minionym-roku-swiat-zdjecie%2CiId%2C2593915%2CiAId%2C309611&crc=1551906456',
+profileSettingsUrl: '//forum.interia.pl/moj-profil/ustawienia/dane-profilowe',
+profileActivateUrl: '//forum.interia.pl/aktywacja?referer=https%3A%2F%2Ffakty.interia.pl%2Fgalerie%2Fswiat%2Fodeszli-w-minionym-roku-swiat-zdjecie%2CiId%2C2593915%2CiAId%2C309611&crc=1551906456',
+profileServiceId: 1014,
+mailServiceId: 1006,
+imageServerHost: 'i.iplsc.com',
+scrollTopOffset: -32,
+isMobileApp: false,
+appSystem: 'www',
+appName: 'www',
+allowLoginUser: true});
+jQuery(document).ready(function(){
+if (!Inpl || !Inpl.Gallery) {
+return;
+}
+var instances = Inpl.Gallery.getAllInstances();
+var instance;
+var firstPhoto = true;
+var prevIndex = null;
+if (instances.length === 0) {
+return;
+}
+instance = instances[0];
+instance.on('trackready', function(actualIndex){
+var track = instance.getTrackList().getTrack(actualIndex);
+if(track.advertisementsOff == 1 ) {
+jQuery('.box.ad,.inpl-gallery-ad').hide();
+} else {
+jQuery('.box.ad,.inpl-gallery-ad').show();
+}
+if(track.commentsOff == 1 ) {
+jQuery('.comments-placeholder').hide();
+} else {
+jQuery('.comments-placeholder').show();
+if (firstPhoto === false && !track.isVirtual() && prevIndex !== actualIndex) {
+Inpl.ForumManager.recreateInstance({
+placeName: 'comments4-1',
+objectId: track.getId()
+});
+
+var slotsObj = Inpl.googletag.slot;
+if(slotsObj["dfp_commentslist"]) {
+googletag.destroySlots( [slotsObj["dfp_commentslist"]] );
+}
+prevIndex = actualIndex;
+}
+firstPhoto = false;
+}
+});
+});
+(function(){
+if (!(Inpl && Inpl.Ad && Inpl.Ad.insertAd)) {
+return;
+}
+var appendAds = function (comment) {
+
+var commentDom = comment.getInstanceDom(), ins, elNode;
+
+var text = document.createComment(' DFP/dfp_commentslist ');
+
+elNode = document.createElement('div');
+elNode.id = 'ad_commentslist';
+elNode.setAttribute("align","center");
+dfpCont = document.createElement('div');
+dfpCont.id = 'dfp-commentslist';
+dfpCont.dataset.iwaViewabilityName = 'dfp-commentslist';
+elNode.appendChild(dfpCont);
+commentDom.parentNode.insertBefore(elNode, commentDom);
+elNode.parentNode.insertBefore(text, elNode);
+
+
+if( !adIsDisplay ){
+googletag.cmd.push(function () {
+window.commentAdSlot = googletag.display('dfp-commentslist');
+});
+adIsDisplay = true;
+} else {
+googletag.cmd.push(function() {
+window.commentAdSlot = googletag.display('dfp-commentslist');
+googletag.pubads().refresh([Inpl.googletag.slot['dfp_commentslist']]);
+});
+}
+},
+noCommentsAd = function (forumDom) {
+var commentDom = forumDom.commentList;
+var text = document.createComment(' DFP/dfp_commentslist ');
+
+elNode = document.createElement('div');
+elNode.id = 'ad_commentslist';
+elNode.setAttribute("align","center");
+dfpCont = document.createElement('div');
+dfpCont.id = 'dfp-commentslist';
+dfpCont.dataset.iwaViewabilityName = 'dfp-commentslist';
+elNode.appendChild(dfpCont);
+commentDom.appendChild(elNode);
+elNode.parentNode.insertBefore(text, elNode);
+
+if( !adIsDisplay ){
+googletag.cmd.push(function () {
+window.commentAdSlot = googletag.display('dfp-commentslist');
+});
+adIsDisplay = true;
+} else {
+googletag.cmd.push(function() {
+window.commentAdSlot = googletag.display('dfp-commentslist');
+googletag.pubads().refresh([Inpl.googletag.slot['dfp_commentslist']]);
+});
+}
+},
+iniAds = function () {
+var forumInit = Inpl.ForumManager.getInstance('comments4-1');
+
+setTimeout(function(){
+if (!forumInit) {
+return;
+}
+var commentList = forumInit._commentList,comment,commentDom;
+if (commentList.length < 3) {
+noCommentsAd(forumInit.dom);
+}
+if (comment = commentList[2]) {
+appendAds(comment);
+}
+},1001);
+},
+addAdsPhoto = function () {
+var instances = Inpl.Gallery.getAllInstances();
+if (instances && instances.length > 0) {
+var instance = instances[0];
+instance.on('trackready', function (actualIndex) {
+var track = instance.getTrackList().getTrack(actualIndex);
+if (track.advertisementsOff != 1) {
+iniAds();
+}
+});
+}
+};
+var photo = Inpl && Inpl.Gallery;
+if (typeof forum !== 'undefined') {
+if (photo) {
+forum.on('render', addAdsPhoto);
+} else {
+forum.on('render', iniAds);
+}
+} else {
+window.addEventListener('renderForum', function renderForumHandler(e) {
+e.target.removeEventListener(e.type, renderForumHandler);
+if (photo) {
+addAdsPhoto();
+if (forum) {
+forum.on('render', addAdsPhoto);
+}
+} else {
+iniAds();
+if (forum) {
+forum.on('render', iniAds);
+}
+}
+}, false);
+}
+}());
+
+var adIsDisplay = false;
+});    //-->
+</script>
+<script type="text/javascript" async="async" src="https://js.iplsc.com/inpl.scrollfooter/1.0.7/inpl.scrollfooter.js"></script>
+<script type="text/javascript">
+    //<!--
+
+jQuery(document).ready(function(){
+if(Inpl.Ad.isAd('gora_srodek')) {
+jQuery('#adStandardTop1').show();
+}
+else {
+jQuery('#adStandardTop1').hide();
+}
+if(Inpl.Ad.isAd('watermark')) {
+jQuery('body').addClass('watermark');
+}
+});
+if (typeof jQuery !== "undefined") {
+Inpl.Ad.onAd('promocyjni_gazetka_dol',function(is,elem){
+if (jQuery('#promocyjni_gazetka_dol1').is('.hidden')) {
+return;
+}
+if(is){
+jQuery('#promocyjni_gazetka_dol1').show();
+}else{
+jQuery('#promocyjni_gazetka_dol1').hide();
+}
+});
+}
+if (typeof jQuery !== "undefined") {
+Inpl.Ad.onAd('belka_stopka',function(is,elem){
+if (jQuery('#belka_stopka1').is('.hidden')) {
+return;
+}
+if(is){
+jQuery('#belka_stopka1').show();
+}else{
+jQuery('#belka_stopka1').hide();
+}
+});
+}    //-->
+</script>
+<script type="text/javascript" async="async" src="https://w.iplsc.com/internal/inpl.copy/1.0.10/inpl.copy.js"></script></body>
+</html>
