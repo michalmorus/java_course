@@ -10,5 +10,11 @@ public class Main {
 
     public static void main(String ...args) {
         logger.log(Level.INFO, "logger info");
+        Main.exampleFunction();
+
+    }
+
+    private static void exampleFunction() {
+        logger.entering("Main", "exampleFunction" );
     }
 }
